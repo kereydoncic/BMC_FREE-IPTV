@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: BMC🇵🇭",WAG MO IBENTA MAKONSENSYA KA NAMAN ABA!
 http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+#EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",HEART OF ASIA
+https://g1z1.short.gy/HeartofAsia
 #EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",A2Z
 http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF:4 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",AXN
@@ -4403,46 +4405,45 @@ https://dl.dropboxusercontent.com/s/n7zifuf8a9gpu9w/Bukas.Na.Laban.2021.mp4?dl=0
 https://pixeldrain.com/api/file/MDWJVV4k
 #EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/LPic61714beccd8132029982570.pnghttps://i.imgur.com/pd5ZNcS.pnghttps://www.linkpicture.com/q/LPic614f6e1ce3e411161062267.png" group-title="FOREIGN MOVIES📺",300 (2006)365 Days This Day (2022)2012 (2009)
 https://dl.dropboxusercontent.com/s/yzlp4sra1ql3tl8/Dalawang.Libo.Dalawa.2009.mkv?dl=0
-
-#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="📺WWE BACKLASH📡",WWE
+#EXTINF:-1 tvg-logo="https://imgur.com/80ub5KG.jpg" group-title="📺WWE BACKLASH",WWE
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/100704.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ecuKUEgfpWAzoZDIgjK916gJss.jpg" group-title="📺4K US MOVIES📡",Peace in the Valley (2022)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ecuKUEgfpWAzoZDIgjK916gJss.jpg" group-title="📺4K US MOVIES",Peace in the Valley (2022)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/96556.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="📺4K US MOVIES📡",Ghostbusters: Afterlife 4K (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sg4xJaufDiQl7caFEskBtQXfD4x.jpg" group-title="📺4K US MOVIES",Ghostbusters: Afterlife 4K (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/50148.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aNRxxRjLF4xH2m2bLr4aC2rDea.jpg" group-title="📺4K US MOVIES📡",The Matrix Resurrections 4K HDR
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aNRxxRjLF4xH2m2bLr4aC2rDea.jpg" group-title="📺4K US MOVIES",The Matrix Resurrections 4K HDR
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/49710.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klsDRXM68wV7vZTTaAOuu62VNA1.jpg" group-title="📺4K US MOVIES📡",Antlers 4K (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klsDRXM68wV7vZTTaAOuu62VNA1.jpg" group-title="📺4K US MOVIES",Antlers 4K (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/49304.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="📺4K US MOVIES📡",Venom: Let There Be Carnage 4K (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="📺4K US MOVIES",Venom: Let There Be Carnage 4K (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/49303.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg" group-title="📺4K US MOVIES📡",Love and Monsters (2020) 4K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4Lm1XKP0VsTgHX4LG4syAwYA2I.jpg" group-title="📺4K US MOVIES",Love and Monsters (2020) 4K
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/26569.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3taBaWfRzw1NIKhEPpKPwKBAOC.jpg" group-title="📺4K US MOVIES📡",Army of the Dead (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3taBaWfRzw1NIKhEPpKPwKBAOC.jpg" group-title="📺4K US MOVIES",Army of the Dead (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/34952.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg" group-title="📺4K US MOVIES📡",Voyagers 4K (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg" group-title="📺4K US MOVIES",Voyagers 4K (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/38123.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="📺4K US MOVIES📡",Godzilla vs. Kong 4K (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgqgaUx1cJb5oZQQ5v0tNARCeBp.jpg" group-title="📺4K US MOVIES",Godzilla vs. Kong 4K (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/38199.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" group-title="📺4K US MOVIES📡",Thor: Ragnarok 4K (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg" group-title="📺4K US MOVIES",Thor: Ragnarok 4K (2017)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/38669.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="📺4K US MOVIES📡",F9 (2021) 4K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="📺4K US MOVIES",F9 (2021) 4K
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/40338.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="📺4K US MOVIES📡",Black Widow (2021) 4K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="📺4K US MOVIES",Black Widow (2021) 4K
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/40339.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="📺4K US MOVIES📡",Jungle Cruise (2021) 4K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="📺4K US MOVIES",Jungle Cruise (2021) 4K
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/40746.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giIGfFqirPk3I2azp8Ow98oOnzG.jpg" group-title="📺4K US MOVIES📡",Fantastic Fungi 4K (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giIGfFqirPk3I2azp8Ow98oOnzG.jpg" group-title="📺4K US MOVIES",Fantastic Fungi 4K (2019)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/41102.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqoshZPLNsXlC1qtz5n34raUyrE.jpg" group-title="📺4K US MOVIES📡",Candyman (2021) 4K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqoshZPLNsXlC1qtz5n34raUyrE.jpg" group-title="📺4K US MOVIES",Candyman (2021) 4K
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/45485.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffo56udrkF28ICTv3Xx1S9X6Dw4.jpg" group-title="📺4K US MOVIES📡",Star Trek: The Motion Picture (1979) 4K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffo56udrkF28ICTv3Xx1S9X6Dw4.jpg" group-title="📺4K US MOVIES",Star Trek: The Motion Picture (1979) 4K
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/45951.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4mVpkghEgWrZsxpgCmpDMlNrL2.jpg" group-title="📺4K US MOVIES📡",Halloween 5: The Revenge of Michael Myers (1989)4K
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4mVpkghEgWrZsxpgCmpDMlNrL2.jpg" group-title="📺4K US MOVIES",Halloween 5: The Revenge of Michael Myers (1989)4K
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/46100.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="📺4K US MOVIES📡",Shang-Chi and the Legend of the Ten Rings (4K) (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="📺4K US MOVIES",Shang-Chi and the Legend of the Ten Rings (4K) (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/48035.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="📺4K US MOVIES📡",No Time to Die (4K) (2021)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="📺4K US MOVIES",No Time to Die (4K) (2021)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/48036.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcyNSb31s9xYVvWnh7ZHkzvHU8h.jpg" group-title="2023 RELEASE📺",Rainey Storms (2023)
 http://tkosportz.live:25461/movie/AlFasano2/sg555AJGy2/85011.mp4
