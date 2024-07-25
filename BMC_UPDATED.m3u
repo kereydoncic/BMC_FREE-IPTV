@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: BMC🇵🇭",WAG MO IBENTA MAKONSENSYA KA NAMAN ABA!
 http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
-#EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",HEART OF ASIA
-https://g1z1.short.gy/HeartofAsia
 #EXTINF:1 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",A2Z
 http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
 #EXTINF:4 tvg-logo="https://imgur.com/QfyjyQr.jpg" group-title="📺BMC📡PH🇵🇭",AXN
