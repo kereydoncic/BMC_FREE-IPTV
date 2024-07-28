@@ -1,6 +1,241 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: J-BMC🇵🇭",NOT FOR SALE!
 http://178.128.21.207:1234/stream/new/ppvpacquiaovsanposunday1pm/stream.m3u8?uid=676631771&u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", A2Z
+http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Animax
+http://178.128.21.207:1234/stream/new/animax/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Anime X HiDive
+http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", AXN
+http://178.128.21.207:1234/stream/new/axn/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", BBC Earth HD
+http://178.128.21.207:1234/stream/new/bbcearth/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Cartoon Network
+http://178.128.21.207:1234/stream/new/cartoonnetwork/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Celestial Movies Pinoy
+http://178.128.21.207:1234/stream/new/celestialmoviespinoy/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Cinemax HD
+http://178.128.21.207:1234/stream/new/cinemaxhd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Cinemo!
+http://178.128.21.207:1234/stream/new/cinemo/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Crime & Investigation
+http://178.128.21.207:1234/stream/new/crimeinvestigation/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Dreamworks
+http://178.128.21.207:1234/stream/new/dreamworks/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Dreamworks Tagalog
+http://178.128.21.207:1234/stream/new/dreamworkstagalog/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", GEM
+http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",  Global Trekker
+http://178.128.21.207:1234/stream/new/globaltrekker/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", GMA
+http://178.128.21.207:1234/stream/new/gma/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", GTV
+http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",HBO Family
+http://178.128.21.207:1234/stream/new/hbofamily/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",HBO HD
+http://178.128.21.207:1234/stream/new/hbohd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",HBO Hits HD
+http://178.128.21.207:1234/stream/new/hbohitshd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",HBO Signature
+http://178.128.21.207:1234/stream/new/hbosignature/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",HITS HD
+http://178.128.21.207:1234/stream/new/hitshd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Hits Movies
+http://178.128.21.207:1234/stream/new/hitsmovies/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Hits Now
+http://178.128.21.207:1234/stream/new/hitsnow/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", K-Plus
+http://178.128.21.207:1234/stream/new/kplus/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Kapamilya Channel
+http://178.128.21.207:1234/stream/new/kapamilyachannel/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",KBS World
+http://178.128.21.207:1234/stream/new/kbsworld/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",KBS World SD
+http://178.128.21.207:1234/stream/new/kbsworldsd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", KIX HD
+http://178.128.21.207:1234/stream/new/kixhd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Lifetime
+http://178.128.21.207:1234/stream/new/lifetime/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Love Nature
+http://178.128.21.207:1234/stream/new/lovenature/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",MPBL
+http://178.128.21.207:1234/stream/new/mpbl/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",MTV Live
+http://178.128.21.207:1234/stream/new/mtvlive/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Myx
+http://178.128.21.207:1234/stream/new/myx/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",NBA TV Phillipines
+http://178.128.21.207:1234/stream/new/nbatvphillipines/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Nick Jr
+http://178.128.21.207:1234/stream/new/nickjr/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Nickelodeon
+http://178.128.21.207:1234/stream/new/nickelodeon/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Nickelodeon HD
+http://178.128.21.207:1234/stream/new/nickelodeonastro/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", ONE
+http://178.128.21.207:1234/stream/new/one/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",One Sports +
+http://178.128.21.207:1234/stream/new/onesports/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",One Sports HD
+http://178.128.21.207:1234/stream/new/onesportshd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Paris 2024 CH1
+http://178.128.21.207:1234/stream/new/paris2024ch1/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Paris 2024 CH2
+http://178.128.21.207:1234/stream/new/paris2024ch2/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Paris 2024 News Channel
+http://178.128.21.207:1234/stream/new/paris2024newschannel/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",PBA Rush
+http://178.128.21.207:1234/stream/new/pbarush/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",PBO
+http://178.128.21.207:1234/stream/new/pbo/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",PPV 
+http://178.128.21.207:1234/stream/new/ppvpacquiaovsanposunday1pm/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Rock Action
+http://178.128.21.207:1234/stream/new/rockaction-1/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Rock Entertainment
+http://178.128.21.207:1234/stream/new/rockentertainment/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",RPTV
+http://178.128.21.207:1234/stream/new/rptv/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Tagalized Movie Channel
+http://178.128.21.207:1234/stream/new/rockaction2/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Tap Action Flix HD
+http://178.128.21.207:1234/stream/new/tapactionflixhd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Tap Edge
+http://178.128.21.207:1234/stream/new/tapedge/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Tap Movies
+http://178.128.21.207:1234/stream/new/tapmovies/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Tap Sports
+http://178.128.21.207:1234/stream/new/tapsports/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",TechStorm
+http://178.128.21.207:1234/stream/new/techstorm/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Teleradyo Serbisyo
+http://178.128.21.207:1234/stream/new/teleradyoserbisyo/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",The Filipino Channel (TFC)
+http://178.128.21.207:1234/stream/new/thefilipinochanneltfc/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Thrill
+http://178.128.21.207:1234/stream/new/thrill/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",TV5
+http://178.128.21.207:1234/stream/new/tv5/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", tvN Movies HD
+http://178.128.21.207:1234/stream/new/tvnmovieshd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",tvN Movies Pinoy
+http://178.128.21.207:1234/stream/new/tvnmoviespinoy/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",tvN Premium HD
+http://178.128.21.207:1234/stream/new/tvnpremiumhd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Vevo 2010s
+http://178.128.21.207:1234/stream/new/vevo2010s/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Vevo 2K
+http://178.128.21.207:1234/stream/new/vevo2k/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Vevo Features
+http://178.128.21.207:1234/stream/new/vevofeatures/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Vevo Hip-Hop
+http://178.128.21.207:1234/stream/new/vevohiphop/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Vevo R&B
+http://178.128.21.207:1234/stream/new/vevorb/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Viva Cinema
+http://178.128.21.207:1234/stream/new/vivacinema/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Warner TV
+http://178.128.21.207:1234/stream/new/warnertv/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",All TV
+http://178.128.21.207:1234/stream/vision/alltv/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Celestial Movies Pinoy
+http://178.128.21.207:1234/stream/vision/celestialmoviespinoy/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Cinemo!
+http://178.128.21.207:1234/stream/vision/cinemo/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", GMA
+http://178.128.21.207:1234/stream/vision/gma/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",GTV
+http://178.128.21.207:1234/stream/vision/gtv/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",Jeepney TV
+http://178.128.21.207:1234/stream/vision/jeepneytv/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Kapamilya Channel SD
+http://178.128.21.207:1234/stream/vision/kapamilyachannelsd/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Myx
+http://178.128.21.207:1234/stream/vision/myx/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
+#EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭",PBO
+http://178.128.21.207:1234/stream/vision/pbo/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",A2Z
 http://115.146.176.131:80/TimRizal/TimRizal/68
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ABC
