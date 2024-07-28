@@ -1,6 +1,1409 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: BMC🇵🇭",WAG MO IBENTA MAKONSENSYA KA NAMAN ABA!
-http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",A2Z
+http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ABS CBN
+http://trickflix1.duckdns.org:1234/stream/trickflix/sonuchannelhd/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ACTION HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",All TV
+http://115.146.176.131:80/TimRizal/TimRizal/60.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Ang Dating Daan
+https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Animal planet
+http://abcnew.site:8880/DYJ14M2353/4745643534/66820
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ANIMAX
+https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Aomori TV
+https://ythls.armelin.one/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BBC News Asia-Pacific
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Nippon tv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS TBs
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Buko
+http://trickflix1.duckdns.org:1234/stream/trickflix/buko/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Cinema One global
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CINEMO Global
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",DISCOVERY SCIENCE
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",DreamWorks pinoy
+http://trickflix1.duckdns.org:1234/stream/trickflix/dreamworkstagalized/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",E T W N
+https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Family Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Fishing Vision
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",FITE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fite247_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",FREE CLASSIC MOVIES
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/free-classic-movies/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Fuji TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Fuji TV NEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Gaora Sports
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA Life
+http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA News
+http://user.scalecdn.co:8080/live/262301/262301/4523.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA Pinoy
+http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA7
+http://115.146.176.131/live/TimRizal/TimRizal/14.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Golf Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Green Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HBO
+http://user.scalecdn.co:8080/live/262301/262301/2491.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HBO Signature
+http://user.scalecdn.co:8080/live/262301/262301/648981.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HBO Zone
+http://abcnew.site:8880/D12m2496/22936653/3120
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HITS MOVIES
+http://115.146.176.131:80/TimRizal/TimRizal/36.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Home Drama Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",INC TV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",J Sports 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",J Sports 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1  tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",J Sports 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Japan B- league
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Jidaigeki Senmon
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Kansai TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Kayo Pops
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Korean MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",LaLa TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Mondo TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Moviezone
+https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",MPTV
+http://trickflix1.duckdns.org:1234/stream/trickflix/mptv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Music Japan TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",MYX TV GLOBAL
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Naked afraid
+http://user.scalecdn.co:8080/live/262301/262301/34331.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NBA Philippines
+http://115.146.176.131:80/TimRizal/TimRizal/97.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NHK G Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",NHRA TV
+https://lnc-nhra.tubi.video/nh.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Nippon TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Nittele G Plus
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",One news
+http://abcnew.site:8880/DYJ14M2353/4745643534/66824
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",One Sports +
+http://user.scalecdn.co:8080/live/262301/262301/651753.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",PARIS OLYMPICS
+http://trickflix1.duckdns.org:1234/stream/trickflix/parisch1/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",PBA RUSH
+http://abcnew.site:8880/DYJ14M2353/4745643534/50127
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",PBO
+http://115.146.176.131:80/TimRizal/TimRizal/32.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",PET CLUB TV
+https://amg01076-lightningintern-petclub-samsungnz-g6424.amagi.tv/playlist/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",RPTV.
+http://trickflix1.duckdns.org:1234/stream/trickflix/rptv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Sari Sari
+http://1tv41.icu:8080/n9UaTQ/546727/101824
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Sky A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Space Shower TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Sun TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Tabi Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TAKARAZUKA SKY STAGE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TAP ACTION
+http://abcnew.site:8880/DYJ14M2353/4745643534/50117
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TAP MOVIES
+http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66825.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TAP TV
+http://abcnew.site:8880/DYJ14M2353/4745643534/66826
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TELERADYO SERBISYO
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TFC
+http://abcnew.site:8880/DYJ14M2353/4745643534/50116
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TFC Kapamilya
+http://tv14s.xyz:8080/live/36820828/31222528/101823.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",THRILL
+http://115.146.176.131:80/TimRizal/TimRizal/13.ts
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Toei Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Tokyo MX2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TrueFm tv
+http://trickflix1.duckdns.org:1234/stream/trickflix/truefmtv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TV Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TV Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",TV5
+https://g1z1.short.gy/TV5
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",tvN Movies Pinoy
+http://trickflix1.duckdns.org:1234/stream/trickflix/tvnmoviespino/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",UAAP VARSITY
+http://abcnew.site:8880/DYJ14M2353/4745643534/50118
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Viva Cinema
+http://freetv.bisdaktv.world/Bisdaktv/Bisdaktv/deyJ1cmwiOiJodHRwOi8vcHJlbWl1bWlwdHZtay5jb206ODA4MC9GMzI5NjIvN2EzMTEyZDcvMjc2NTMxIiwiaWQiOjYwNn0%3D/fast
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",World Poker
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",WOWOW Live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",WOWOW Prime
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",WWE Network
+http://fortv.cc:8080/38871863/38871863/146294
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Animax Philippines
+http://trickflix1.duckdns.org:1234/stream/trickflix/animax/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Cartoonito Full HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",KARTOONS CHANNEL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Kartoon.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Cartoon Network Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Disney Channel Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Kids Station
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Pandamax Channel
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",SPACETOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",DISNEY CHANNEL
+http://abcnew.site:8880/live/D12m2496/22936653/28206.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",DISNEY MOVIES
+http://abcnew.site:8880/D12m2496/22936653/60928
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",DREAMWORKS ANIMATION
+http://abcnew.site:8880/D12m2496/22936653/60923
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA YTV East
+http://fortv.cc:8080/38871863/38871863/63850
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA Cartoon Network (E)
+http://fortv.cc:8080/38871863/38871863/57356
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA Disney Junior
+http://fortv.cc:8080/38871863/38871863/57349
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA Disney XD (R)
+http://fortv.cc:8080/38871863/38871863/57420
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA: Family Jr HD
+http://fortv.cc:8080/38871863/38871863/57346
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA Nickelodeon (R)
+http://fortv.cc:8080/38871863/38871863/47349
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA Teletoon East (E)
+http://fortv.cc:8080/38871863/38871863/57372
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CA Treehouse (R)
+http://fortv.cc:8080/38871863/38871863/57371
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US Disney Channel East (A)
+http://fortv.cc:8080/38871863/38871863/2206
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US: Disney XD
+http://fortv.cc:8080/38871863/38871863/75621
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US NickToons
+http://fortv.cc:8080/38871863/38871863/36
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",USA-Disney Jr
+http://fortv.cc:8080/38871863/38871863/41960
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US Nickelodeon East (A)
+http://fortv.cc:8080/38871863/38871863/38
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US Boomerang (H)
+http://fortv.cc:8080/38871863/38871863/14741
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US Nick JR East (A)
+http://fortv.cc:8080/38871863/38871863/9807
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US Universal Kids (A)
+http://fortv.cc:8080/38871863/38871863/9235
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",US TeenNick
+http://fortv.cc:8080/38871863/38871863/140004
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream_de.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_de.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_de.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Anime All Ages
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",One Piece
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Yu-Gi-Oh
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746463.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",UK: SKY CINEMA ACTION FHD
+http://fortv.cc:8080/38871863/38871863/35254
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746464.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",UK MOVIES: SKY CINEMA DRAMA
+http://fortv.cc:8080/38871863/38871863/35251
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746465.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",UK Sky Cinema Scifi & Horror FHD
+http://fortv.cc:8080/38871863/38871863/35248
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746466.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",UK MOVIES: SKY COMEDY
+http://fortv.cc:8080/38871863/38871863/35253
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746467.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",UK MOVIES: SKY CRIME THRILLER
+http://fortv.cc:8080/38871863/38871863/35252
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746468.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",UK MOVIES: SKY GREATS
+http://fortv.cc:8080/38871863/38871863/35249
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746469.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",UK-Sky Cinema Premier
+http://fortv.cc:8080/38871863/38871863/35256
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746479.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US SONY Movies FHD
+http://fortv.cc:8080/38871863/38871863/2214
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746484.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Lifetime Movies
+http://fortv.cc:8080/38871863/38871863/20863
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746487.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US STARZ ENCORE Black
+http://fortv.cc:8080/38871863/38871863/16141
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746525.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",USA:  Showtime NEXT
+http://fortv.cc:8080/38871863/38871863/9316
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746526.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",USA:  STARZ EDGE
+http://fortv.cc:8080/38871863/38871863/16143
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746530.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US 5 StarMax
+http://fortv.cc:8080/38871863/38871863/13381
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746535.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US ActionMAX (East)
+http://fortv.cc:8080/38871863/38871863/21013
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746559.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Cinemax (East)
+http://fortv.cc:8080/38871863/38871863/13380
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746580.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US EPIX (East)
+http://fortv.cc:8080/38871863/38871863/13214
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746581.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Epix Drive IN (S)
+http://fortv.cc:8080/38871863/38871863/14193
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746582.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",USA: Epix Hits
+http://fortv.cc:8080/38871863/38871863/12744
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746583.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US EPIX2 (East)
+http://fortv.cc:8080/38871863/38871863/12730
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746611.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US HBO
+http://fortv.cc:8080/38871863/38871863/9264
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746612.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US HBO 2 (A)
+http://fortv.cc:8080/38871863/38871863/9816
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746613.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US HBO Comedy (East)
+http://fortv.cc:8080/38871863/38871863/17773
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746614.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US HBO Family (East)
+http://fortv.cc:8080/38871863/38871863/17772
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746615.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US HBO SIGNATURE (East)
+http://fortv.cc:8080/38871863/38871863/9266
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746616.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US HBO Zone (East) (H)
+http://fortv.cc:8080/38871863/38871863/9265
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746617.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US HDNET MOVIES
+http://fortv.cc:8080/38871863/38871863/16265
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746635.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US More Max
+http://fortv.cc:8080/38871863/38871863/17776
+#EXTINF:-1 tvg-id="moviemax.us" tvg-name="US MovieMAX (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746637.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US MovieMAX (East) (H)
+http://fortv.cc:8080/38871863/38871863/13480
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746638.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US MoviePlex (East) (H)
+http://fortv.cc:8080/38871863/38871863/1829
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746660.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Cinemax Outermax (X)
+http://fortv.cc:8080/38871863/38871863/21012
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746676.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US RetroPlex (East) (H)
+http://fortv.cc:8080/38871863/38871863/66379
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746682.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Showtime East
+http://fortv.cc:8080/38871863/38871863/46214
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746683.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Showtime 2 (East) (H)
+http://fortv.cc:8080/38871863/38871863/13219
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746684.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Showtime Extreme (East) (SP)
+http://fortv.cc:8080/38871863/38871863/13220
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746685.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Showtime Family Zone (East)
+http://fortv.cc:8080/38871863/38871863/13481
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746686.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Showtime Women (East) (H)
+http://fortv.cc:8080/38871863/38871863/17778
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746690.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Starz Cinema (East)
+http://fortv.cc:8080/38871863/38871863/17775
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746691.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Starz Cinema (East) (H)
+http://fortv.cc:8080/38871863/38871863/9301
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746692.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Starz East (S)
+http://fortv.cc:8080/38871863/38871863/9299
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746693.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Starz Encore Westerns (East)
+http://fortv.cc:8080/38871863/38871863/16263
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) (H)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746694.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Starz in Black (East) (H)
+http://fortv.cc:8080/38871863/38871863/17779
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746695.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US Starz West (S)
+http://fortv.cc:8080/38871863/38871863/21091
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="US ThrillerMax (East)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1163746702.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",US ThrillerMax (East)
+http://fortv.cc:8080/38871863/38871863/17774
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CITY HUNTER TAGALOG 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747251.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",CITY HUNTER TAGALOG 2024
+https://cdn0921-01.mpipaytv.workers.dev/download.aspx?file=CTUuLeizR6%2F%2B1ULFEuJOBuovP8woJNqOykVgaSrQ9pIKusXXob%2BJJqNGYWd%2FJWC1&expiry=ekqLqXIHO%2BWOsAsKdYCneg%3D%3D&mac=d330186a8ab5b1a82f1faf2b1241d2e7b1bb977dc1f374659b1132b45c8bd01d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CIVIL WAR 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747252.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",CIVIL WAR 2024
+https://cdn0921-01.vpipaytv.workers.dev/download.aspx?file=%2Fw5%2FIT4QdLRCoFsUaMdqRIkEy2%2BFz67txjAMlqxX2zQkiEyAX7hfYn3o8jn9DBsH&expiry=OLy%2FOg%2B5Y6vdl9yCT9nbLA%3D%3D&mac=e6c8ff7c26f803618268a9098db2d2a4380696e448863b98d39c0e942670befc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CODE8 2 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747253.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",CODE8 2 2024
+https://cdn0921-01.tpipaytv.workers.dev/download.aspx?file=ZqCEt3nwcxlqN917m741qPU7mVk%2BR8VKkPxXF4qg9%2FSTSPMvuuoyNOeScPwH%2BGAI&expiry=LHp82sr0IcnfAzJuKotCxQ%3D%3D&mac=5b065cb1ab2f17049f43acaf9a63818c71986f317e4cca898ea73f5798044475
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAMSEL 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747254.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",DAMSEL 2024
+https://192-168-254.24l.workers.dev/download.aspx?file=HLh0iMn40zA48Uc4NPJVLocf5QfJQU2F4i44TbewYKMcCRFXVU3xOIhvVHyufjF2&expiry=MpVClVSDVC57pSOHFAXwpg%3D%3D&mac=ef3de92ca682ccf8e8378622c121a6c29ca7cb5dd69c863e8f322fae6e6fa912
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FUKS2 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747255.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",FUKS2 2024
+https://192-168-254.25l.workers.dev/download.aspx?file=Qis9EMuzggbMla2k9c1ug50etZkhTYT%2FYamG0FMD35aryhpMllabCmkFrAcQAyDU&expiry=XfYY2e0kKxLfso%2BrC0fEgw%3D%3D&mac=e8a395d79f6a140a17425250986926b79b88d58f22df51eec794fe800b231fde
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GHOST BUSTERS AND FROZEN EMPIRE 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747256.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",GHOST BUSTERS AND FROZEN EMPIRE 2024
+https://192-168-254.24l.workers.dev/download.aspx?file=W4aMW%2Ff%2FbhHJzIP2mJ50QPLI46VP1VYobyt04Zok%2FXIuj5DksYzU%2FgkDsTcE8M4t&expiry=dyNjJkSycQLs0ZJACMZnOQ%3D%3D&mac=578c0b2cb73db3549b135a3e01fbc279dca654badda857c951fcd6c6ca59bf7d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GODZILLA X KONG THE NEW EMPIRE 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747257.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",GODZILLA X KONG THE NEW EMPIRE 2024
+https://cdn0921-01.mpipaytv.workers.dev/download.aspx?file=vCDJE0dXmb7XA2rMn3qUGKcW6rhLrzNGQjJ%2F%2FHxAnGDXR5fUJ63whe9Wj59x%2BA2%2B&expiry=Gd4jDCT8jSLBxHwakHDktA%3D%3D&mac=e02f47261a308c95f4db44ca6c05aa42f17ecd6f1cc520ae4cd8cd7db659e2d3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SENAKULO 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747258.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",SENAKULO 2024
+https://dl.456crack.workers.dev/download.aspx?file=2rcc2upHB7ze5EasVMHo7SUoCsybKtToljkZNqeOI95xoyWpzWbc91iih7Q9IUVu&expiry=s4sDZZFkR7o9awnKemdqwA%3D%3D&mac=cb2340c3c442823fe1d71ff741a3b809b0e3c2e8e1cf2bbbf60611aa3acbb778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="REWIND 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747259.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",REWIND 2024
+https://free2.13link.workers.dev/download.aspx?file=oraViSCB%2FifL38otQA07qNDLeuyOog6oKXf0qBXG58zaFyam3M0Tpg0oUPGGQE18&expiry=b9UrJxf%2FsToxF6FBwOO91w%3D%3D&mac=3a2da9b45523d9c966317553a1839c03d26ef83265c8f471ceb797fcdaea7bbd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY ZOMBABE 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747260.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",MY ZOMBABE 2024
+https://free2.13link.workers.dev/download.aspx?file=Zm72O5cDsYi8Lr%2F%2FM2Ju1BMURfTln38XgsZaYgiCqpB12fGIR1k%2BSNlOrF9jhn%2FA&expiry=%2FQg1kzg1d4fmtmBq3vjSbA%3D%3D&mac=c0615b66b5130b9bc93d9f7d74df8d3b1daf98c96a8e233ec9b34bf71c638af2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITUTUMBA KA NG TATAY KO 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747261.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",ITUTUMBA KA NG TATAY KO 2024
+https://cdn0921-01.lpipaytv.workers.dev/download.aspx?file=deGGIpHiZo6mxxsXcje19fLWXNh4UkR9e6c%2FrEm8QsLxA1WETm4GcRzfkZC6UIVz&expiry=xk6zZmfrcgfGyvpJopBl%2Fg%3D%3D&mac=3e4ef58983d6f4ce79366657cc61a12cb87d6644657939a6495faadc97b43c2d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A JOURNEY 2024" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747262.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",A JOURNEY 2024
+https://dl.789crack.workers.dev/download.aspx?file=StnXZuu25sMg11pgW8HnUI1RBAR8T15tWeEJpjcJyV%2B7QfTK%2BZWRCM6151uvxuGf&expiry=4nZZaUJMyjeWD9XKZNk8Nw%3D%3D&mac=0893fe73a5a6543b21050bb6dbbffaa7f3261f7969245808b1a254994bf9a0a5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SHAKE ROTTLE ROLL EXTREME 2023" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747263.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",SHAKE ROTTLE ROLL EXTREME 2023
+https://dl.789crack.workers.dev/download.aspx?file=qc3Ywk%2FoRaNz%2BrJxq4YPWJAjlWAlyqgrhQQz8PXsECFEskZZyxaZdALAEFglCIIJ&expiry=CIilqK88QB69PL50u56UxA%3D%3D&mac=f28d315b081f66bc8030d7d397685b4890381dbcf7d5de7785f2a36ea261b982
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOMBORZA 2023" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747264.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",GOMBORZA 2023
+http://mag.premiumplus.tv:80/play/live.php?mac=00:1A:79:0F:58:0C&stream=731863&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AVENGERS MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988532.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",AVENGERS MOVIES
+http://abcnew.site:8880/D12m2496/22936653/60256
+#EXTINF:-1 tvg-id="hbofamily.ph" tvg-name="BATMAN MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988533.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",BATMAN MOVIES
+http://abcnew.site:8880/D12m2496/22936653/60869
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blade Movies" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988534.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",Blade Movies
+http://abcnew.site:8880/D12m2496/22936653/60868
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DIE HARD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988535.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",DIE HARD
+http://abcnew.site:8880/D12m2496/22936653/60863
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRIDAY THE 13TH" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988536.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",FRIDAY THE 13TH
+http://abcnew.site:8880/D12m2496/22936653/60850
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JASON BOURNE MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988537.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",JASON BOURNE MOVIES
+http://abcnew.site:8880/D12m2496/22936653/60854
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jurassic Park" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988538.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",Jurassic Park
+http://abcnew.site:8880/D12m2496/22936653/60851
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PLANET OF THE APES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988539.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",PLANET OF THE APES
+http://abcnew.site:8880/D12m2496/22936653/60843
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRANSFORMERS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988540.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",TRANSFORMERS
+http://abcnew.site:8880/D12m2496/22936653/60252
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRANSPORTER" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988541.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",TRANSPORTER
+http://abcnew.site:8880/D12m2496/22936653/60251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XMEN" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739655/1164988542.jpg" group-title="📺 BMC MOVIE V3 CHANNEL📡🇵🇭",XMEN
+http://abcnew.site:8880/D12m2496/22936653/60244
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FRIENDS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746417.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 FRIENDS
+http://fortv.cc:8080/38871863/38871863/66407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 RICK AND MORTY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746418.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 RICK AND MORTY
+http://fortv.cc:8080/38871863/38871863/66302
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DRAGON BALL Z" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746419.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 DRAGON BALL Z
+http://fortv.cc:8080/38871863/38871863/79572
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FULL HOUSE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746420.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 FULL HOUSE
+http://fortv.cc:8080/38871863/38871863/66269
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FAMILY GUY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746446.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 FAMILY GUY
+http://fortv.cc:8080/38871863/38871863/66317
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Of Thrones" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746449.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Game Of Thrones
+http://fortv.cc:8080/38871863/38871863/66318
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 KEEPING UP WITH THE KARDASHIANS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746450.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 KEEPING UP WITH THE KARDASHIANS
+http://fortv.cc:8080/38871863/38871863/66403
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FRESH PRINCE OF BEL-AIR" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746451.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 FRESH PRINCE OF BEL-AIR
+http://fortv.cc:8080/38871863/38871863/79559
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE FIRST 48HRS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746452.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 THE FIRST 48HRS
+http://fortv.cc:8080/38871863/38871863/66393
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 RIDICULOUSNESS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746454.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 RIDICULOUSNESS
+http://fortv.cc:8080/38871863/38871863/66397
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 SAVED BY THE BELL" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746455.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 SAVED BY THE BELL
+http://fortv.cc:8080/38871863/38871863/66344
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 SEINFELD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746456.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 SEINFELD
+http://fortv.cc:8080/38871863/38871863/66303
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="South Park*" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746458.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",South Park*
+http://fortv.cc:8080/38871863/38871863/66401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 PAW PATROL" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746460.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 PAW PATROL
+http://fortv.cc:8080/38871863/38871863/66311
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The KING OF QUEENS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746461.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",The KING OF QUEENS
+http://fortv.cc:8080/38871863/38871863/79567
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Knight Rider*" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746729.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Knight Rider*
+http://fortv.cc:8080/38871863/38871863/83700
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: ANIMATION" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746738.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: ANIMATION
+http://fortv.cc:8080/38871863/38871863/119420
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: BLOCKBUSTERS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746739.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: BLOCKBUSTERS
+http://fortv.cc:8080/38871863/38871863/119421
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: CLASSIC" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746740.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: CLASSIC
+http://fortv.cc:8080/38871863/38871863/119422
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: COMEDY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746741.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: COMEDY
+http://fortv.cc:8080/38871863/38871863/119423
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: CULT" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746742.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: CULT
+http://fortv.cc:8080/38871863/38871863/119424
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: FAMILY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746743.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: FAMILY
+http://fortv.cc:8080/38871863/38871863/119425
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: GREATS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746744.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: GREATS
+http://fortv.cc:8080/38871863/38871863/119426
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: GREATS TWO" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746745.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: GREATS TWO
+http://fortv.cc:8080/38871863/38871863/119427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: HISTORICAL" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746746.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: HISTORICAL
+http://fortv.cc:8080/38871863/38871863/119428
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Horror Movies" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746747.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Horror Movies
+http://fortv.cc:8080/38871863/38871863/119429
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: MUSICAL" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746748.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: MUSICAL
+http://fortv.cc:8080/38871863/38871863/119430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: MYSTERY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746749.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: MYSTERY
+http://fortv.cc:8080/38871863/38871863/119431
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: PREMIERE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746750.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: PREMIERE
+http://fortv.cc:8080/38871863/38871863/119432
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: ROMANCE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746751.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: ROMANCE
+http://fortv.cc:8080/38871863/38871863/119433
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: SCI-FI" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746752.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: SCI-FI
+http://fortv.cc:8080/38871863/38871863/119434
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: WESTERN" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746753.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: WESTERN
+http://fortv.cc:8080/38871863/38871863/119435
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: HITS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746754.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: HITS
+http://fortv.cc:8080/38871863/38871863/119436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: THRILLER" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746755.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",CINEBOX: THRILLER
+http://fortv.cc:8080/38871863/38871863/119437
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: 7NEWS SPOTLIGHT" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746756.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: 7NEWS SPOTLIGHT
+http://fortv.cc:8080/38871863/38871863/119438
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: ALL DOCUMENTERY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746757.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: ALL DOCUMENTERY
+http://fortv.cc:8080/38871863/38871863/119439
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: DISCOVERY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746758.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: DISCOVERY
+http://fortv.cc:8080/38871863/38871863/119440
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: DW DOCUMENTERY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746759.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: DW DOCUMENTERY
+http://fortv.cc:8080/38871863/38871863/119441
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: FREE DOCUMENTERY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746760.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: FREE DOCUMENTERY
+http://fortv.cc:8080/38871863/38871863/119442
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: FREE DOCUMENTERY ANILAMS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746761.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: FREE DOCUMENTERY ANILAMS
+http://fortv.cc:8080/38871863/38871863/119443
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: FRONTLINE PBS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746762.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: FRONTLINE PBS
+http://fortv.cc:8080/38871863/38871863/119444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: NAT GEO WILD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746763.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: NAT GEO WILD
+http://fortv.cc:8080/38871863/38871863/119447
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: NETFLIX" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746764.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: NETFLIX
+http://fortv.cc:8080/38871863/38871863/119448
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: REAL CRIME" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746765.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: REAL CRIME
+http://fortv.cc:8080/38871863/38871863/119449
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: REAL WILD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746766.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",DOCUBOX: REAL WILD
+http://fortv.cc:8080/38871863/38871863/119451
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE GOLDEN GIRLS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746768.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 THE GOLDEN GIRLS
+http://fortv.cc:8080/38871863/38871863/120948
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE FLINTSTONES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746769.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 THE FLINTSTONES
+http://fortv.cc:8080/38871863/38871863/120949
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 COMEDY MOVIES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746770.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 COMEDY MOVIES
+http://fortv.cc:8080/38871863/38871863/121096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 STAR TREK" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746771.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 STAR TREK
+http://fortv.cc:8080/38871863/38871863/121115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FAMILY MATTERS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746774.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 FAMILY MATTERS
+http://fortv.cc:8080/38871863/38871863/125634
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 TOM AND JERRY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746775.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 TOM AND JERRY
+http://fortv.cc:8080/38871863/38871863/125635
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DUCK TALES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746776.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 DUCK TALES
+http://fortv.cc:8080/38871863/38871863/125636
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 TEEN TITANS GO!" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746777.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 TEEN TITANS GO!
+http://fortv.cc:8080/38871863/38871863/125637
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 LOONEY TUNES" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746778.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 LOONEY TUNES
+http://fortv.cc:8080/38871863/38871863/125638
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE SOPRANOS" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746780.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 THE SOPRANOS
+http://fortv.cc:8080/38871863/38871863/125971
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 SEX IN THE CITY" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746781.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 SEX IN THE CITY
+http://fortv.cc:8080/38871863/38871863/125972
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 GUNSMOKE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746797.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 GUNSMOKE
+http://fortv.cc:8080/38871863/38871863/140069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Adventure Time" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746814.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Adventure Time
+http://fortv.cc:8080/38871863/38871863/178879
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 American Crime Story" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746815.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 American Crime Story
+http://fortv.cc:8080/38871863/38871863/178876
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Bar Rescue" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746816.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Bar Rescue
+http://fortv.cc:8080/38871863/38871863/178865
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Biography: WWE Legends" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746817.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Biography: WWE Legends
+http://fortv.cc:8080/38871863/38871863/178860
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Black Ink Crew Chicago" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746818.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Black Ink Crew Chicago
+http://fortv.cc:8080/38871863/38871863/178859
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Chuck" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163746819.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Chuck
+http://fortv.cc:8080/38871863/38871863/178845
+#EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-name="Eisei Gekijo (544p)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747265.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Eisei Gekijo (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-name="Movie Plus (544p)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747266.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Movie Plus (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-name="Nihon Eiga Senmon (544p)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747267.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Nihon Eiga Senmon (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+#EXTINF:-1 tvg-id="StarChannel1.jp" tvg-name="Star 1 (544p)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747268.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Star 1 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 tvg-id="StarChannel2.jp" tvg-name="Star 2 (544p)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747269.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Star 2 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+#EXTINF:-1 tvg-id="StarChannel3.jp" tvg-name="Star 3 (544p)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747270.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",Star 3 (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-name="WOWOW Cinema (544p)" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739663/1163747271.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",WOWOW Cinema (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 X Men HD SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747272.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 X Men HD SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100296&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Älskar Älskar Inte HD SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747273.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Älskar Älskar Inte HD SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100225&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 90s Hiphop HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747274.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 90s Hiphop HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100308&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 American Pie HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747275.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 American Pie HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100027&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Baywatch" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747276.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Baywatch
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100033&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 CSI HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747277.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 CSI HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=104958&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Dexter HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747278.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Dexter HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100090&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Disco Classics" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747279.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Disco Classics
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=101921&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Emily in Paris HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747280.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Emily in Paris HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100224&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Empire HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747281.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Empire HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=104955&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Fast N' Loud" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747282.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Fast N' Loud
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100092&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Frasier  HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747283.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Frasier  HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=104954&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Family Feud" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747284.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Family Feud
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=113785&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Game of Thrones" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747285.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Game of Thrones
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100093&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Gold Rush HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747286.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Gold Rush HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=99845&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Gossip Girl HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747287.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Gossip Girl HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100094&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Grey's Anatomy HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747288.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Grey's Anatomy HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100228&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Harry Potter HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747289.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Harry Potter HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100029&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Hawaii Five-0 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747290.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Hawaii Five-0 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100025&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Home Alone HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747291.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Home Alone HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=99436&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 House of Cards HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747292.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 House of Cards HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100095&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 How I Met Your Mother HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747293.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 How I Met Your Mother HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100096&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 John Wick FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747294.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 John Wick FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=99483&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Lethal Weapon FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747295.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Lethal Weapon FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100030&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Married... with Children HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747296.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Married... with Children HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=101773&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Midsomer Murders HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747297.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Midsomer Murders HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100098&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Moonshiners HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747298.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Moonshiners HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100099&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Narcos HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747299.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Narcos HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=101469&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 One Tree Hill HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747300.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 One Tree Hill HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100101&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz I Love The 80s HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747301.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz I Love The 80s HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100311&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz I Love The 90s HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747302.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz I Love The 90s HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100310&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz Back to the 90s HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747303.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz Back to the 90s HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=377473&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz Heroes Of The Zer00s HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747304.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz Heroes Of The Zer00s HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=377474&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz Yearmix 2012-2014 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747305.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz Yearmix 2012-2014 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100316&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz Yearmix 2015-2017 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747306.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz Yearmix 2015-2017 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100317&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz Yearmix 2018-2020 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747307.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz Yearmix 2018-2020 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100318&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Philizz Yearmix 2021 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747308.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Philizz Yearmix 2021 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=161827&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Pirates of the Caribbean HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747309.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Pirates of the Caribbean HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100026&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Police Academy FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747310.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Police Academy FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100031&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Richard Hammond's Big HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747311.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Richard Hammond's Big HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100105&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Ridiculousness HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747312.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Ridiculousness HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100106&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Rock Concerts 1 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747313.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Rock Concerts 1 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100973&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Rock Concerts 2 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747314.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Rock Concerts 2 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100974&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Rock Concerts 3 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747315.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Rock Concerts 3 HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100975&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Scrubs HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747316.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Scrubs HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100107&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Sex and The City HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747317.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Sex and The City HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=104952&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 That 70s Show HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747318.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 That 70s Show HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100110&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 The Big Bang Theory HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747319.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 The Big Bang Theory HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=99348&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 The Hobbit HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747320.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 The Hobbit HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100138&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 The Lord of the Rings HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747321.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 The Lord of the Rings HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100028&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 The O.C. HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747322.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 The O.C. HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100111&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Tik Tok Music HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747323.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Tik Tok Music HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100309&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Two and a Half Men HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747324.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Two and a Half Men HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100133&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Ugly Betty HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747325.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Ugly Betty HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100135&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Yellowstone HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747326.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Yellowstone HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=104959&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 The Fresh Prince in Bel-Air HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747327.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 The Fresh Prince in Bel-Air HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=110649&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Awkward SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747328.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Awkward SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297710&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Clubbing TV SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747329.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Clubbing TV SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297729&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Crime SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747330.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Crime SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297681&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Ex On The Beach SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747331.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Ex On The Beach SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297703&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FailArmy SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747332.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 FailArmy SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297693&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FBI Files SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747333.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 FBI Files SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297684&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Fight SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747334.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Fight SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297724&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Film SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747335.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Film SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297678&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Fishing SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747336.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Fishing SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297711&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Forensic Files SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747337.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Forensic Files SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297683&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Gameplay: Fortnite SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747338.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Gameplay: Fortnite SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297725&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Gameplay: Roblox SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747339.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Gameplay: Roblox SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297726&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Ghost Dimension SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747340.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Ghost Dimension SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297687&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Hell's Kitchen SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747341.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Hell's Kitchen SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297715&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Homicide Hunter SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747342.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Homicide Hunter SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297682&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 IGN SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747343.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 IGN SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297723&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Just for Laughs SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747344.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Just for Laughs SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297696&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Komedi SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747345.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Komedi SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297720&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Lyxfällan Danmark SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747346.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Lyxfällan Danmark SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297713&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Mat SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747347.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Mat SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297714&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Minecraf TV SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747348.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Minecraf TV SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297727&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 MTV Unplugged SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747349.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 MTV Unplugged SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297728&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Nature Time SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747350.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Nature Time SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297719&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Siesta Key SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747351.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Siesta Key SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297704&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Stugfixarna Norge SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747352.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Stugfixarna Norge SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297712&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 The Hills SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747353.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 The Hills SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297702&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 The New Detectives SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747354.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 The New Detectives SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297685&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Thrillers SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747355.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Thrillers SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297680&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Undercover Boss USA SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747356.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Undercover Boss USA SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297691&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Unsolved Mysteries SE" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747357.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Unsolved Mysteries SE
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=297686&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Arnold Schwarzenegger Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747358.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Arnold Schwarzenegger Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111148&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Bruce Willis Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747359.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Bruce Willis Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111149&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Denzel Washington Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747360.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Denzel Washington Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111150&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Jackie Chan Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747361.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Jackie Chan Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111151&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Jason Statham Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747362.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Jason Statham Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111152&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Jim Carrey Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747363.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Jim Carrey Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111153&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 John Travolta Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747364.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 John Travolta Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111155&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Johnny Depp Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747365.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Johnny Depp Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111154&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Mel Gibson Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747366.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Mel Gibson Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111156&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Milla Jovovich Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747367.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Milla Jovovich Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111157&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Nicolas Cage Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747368.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Nicolas Cage Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111158&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Robert De Niro Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747369.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Robert De Niro Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111159&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Sons of Anarchy HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747370.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Sons of Anarchy HD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=100242&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Sylvester Stallone Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747371.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Sylvester Stallone Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111143&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Tom Cruise Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747372.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Tom Cruise Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111160&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Van Damme Collection FHD" tvg-logo="https://m3u-editor.com/storage/channel-logos/f880d140-1370-11ef-9f07-074fec73bb76/6739650/1163747373.jpg" group-title="📺 LOCAL 24/7  MOVIE CHANNEL📡🇵🇭",24/7 Van Damme Collection FHD
+http://ultratv.one:2095/play/live.php?mac=10:27:be:0d:20:96&stream=111161&extension=ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031482.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 1
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%201.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031483.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 2
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%202.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031484.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 3
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%203.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 4" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031485.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 4
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%204.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 5" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031486.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 5
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%205.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 6" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031487.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 6
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%206.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 7" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031488.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 7
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%207.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 8" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031489.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 8
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%208.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 9" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031490.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 9
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%209.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 10" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031491.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 10
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2010.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 11" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031492.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 11
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2011.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 12" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031493.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 12
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2012.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 13" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031494.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 13
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2013.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 14" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031495.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 14
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2014.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 15" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031496.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 15
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2015.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 16" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031497.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 16
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2016.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 17" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031498.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 17
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2017.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 18" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031499.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 18
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2018.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 19" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031500.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 19
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2019.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 20" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031501.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 20
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2020.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 21" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031502.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 21
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2021.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 22" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031503.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 22
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2022.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 23" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031504.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 23
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2023.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 24" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031505.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 24
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2024.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 25" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031506.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 25
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2025.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 26" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031507.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 26
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2026.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 27" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031508.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 27
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2027.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 28" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031509.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 28
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2028.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 29" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031510.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 29
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2029.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 30" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031511.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 30
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2030.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 31" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031512.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 31
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2031.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 32" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031513.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 32
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2032.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 33" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031514.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 33
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2033.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 34" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031515.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 34
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2034.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 35" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031516.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 35
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2035.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 36" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031517.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 36
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2036.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 37" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031518.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 37
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2037.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 38" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031519.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 38
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2038.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 39" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031520.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 39
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2039.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 40" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031521.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 40
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2040.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 41" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031522.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 41
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2041.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 42" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031523.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 42
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2042.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 43" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031524.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 43
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2043.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 44" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031525.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 44
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2044.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 45" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031526.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 45
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2045.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 46" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031527.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 46
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2046.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 47" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031528.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 47
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2047.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 48" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031529.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 48
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2048.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 49" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031530.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 49
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2049.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 50" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031531.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 50
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2050.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 51" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031532.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 51
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2051.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 52" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031533.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 52
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2052.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 53" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031534.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 53
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2053.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 54" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031535.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 54
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2054.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 55" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031536.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 55
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2055.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 56" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031537.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 56
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2056.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 57" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031538.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 57
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2057.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 58" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031539.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 58
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2058.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 59" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031540.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 59
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2059.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 60" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI5YTIwMDItMDFhNC00NTM1LThjYzEtM2ZhMzkyZmNiNzg5XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX1000_.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 60
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2060.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 61" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031542.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 61
+https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2061.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 62" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031543.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 62
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2062.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 63" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031544.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 63
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2063.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 64" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031545.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 64
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2064.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 65" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031546.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 65
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2065.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 66" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031547.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 66
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2066.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 67" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031548.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 67
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2067.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 68" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031549.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 68
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2068.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 69" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031550.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 69
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2069.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 70" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031551.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 70
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2070.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 71" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031552.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 71
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2071.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 72" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031553.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 72
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2072.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 73" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031554.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 73
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2073.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 74" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031555.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 74
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2074.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 75" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031556.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 75
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2075.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 76" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031557.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 76
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2076.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 77" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031558.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 77
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2077.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 78" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031559.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 78
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2078.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 79" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031560.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 79
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2079.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 80" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031561.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 80
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2080.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 81" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031562.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 81
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20811.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 82" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031563.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 82
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2082.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 83" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031564.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 83
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2083.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 84" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031565.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 84
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2084.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 85" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031566.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 85
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2085.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 86" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031567.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 86
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2086.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 87" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031568.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 87
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2087.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 88" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031569.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 88
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2088.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 89" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031570.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 89
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2089.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 90" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031571.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 90
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2090.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 91" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031572.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 91
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2091.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 92" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031573.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 92
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2092.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 93" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031574.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 93
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2093.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 94" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031575.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 94
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2094.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 95" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031576.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 95
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2095.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 96" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031577.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 96
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2096.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 97" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031578.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 97
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2097.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 98" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031579.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 98
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2098.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 99" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031580.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 99
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%2099.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 100" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031581.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 100
+https://ia601504.us.archive.org/10/items/anime-2.0-100/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20100.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 101" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031582.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 101
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20101.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 102" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031583.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 102
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20102.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 103" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031584.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 103
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20103.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 104" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031585.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 104
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20104.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 105" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031586.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 105
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20105.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 106" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031587.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 106
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20106.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 107" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031588.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 107
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20107.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 108" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031589.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 108
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20108.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 109" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031590.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 109
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20109.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 110" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031591.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 110
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20110.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 111" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031592.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 111
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20111.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 112" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031593.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 112
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20112.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 113" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031594.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 113
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20113.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 114" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031595.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 114
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20114.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 115" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031596.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 115
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20115.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 116" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031597.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 116
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20116.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 117" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031598.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 117
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20117.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 118" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031599.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 118
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20118.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 119" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031600.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 119
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20119.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 120" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031601.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 120
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20120.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 121" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031602.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 121
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20121.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 122" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031603.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 122
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20122.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 123" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031604.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 123
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20123.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 124" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031605.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 124
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20124.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 125" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031606.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 125
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20125.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 126" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031607.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 126
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20126.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 127" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031608.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 127
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20127.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 128" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031609.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 128
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20128.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 129" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031610.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 129
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20129.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 130" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031611.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 130
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20130.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 131" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031612.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 131
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20131.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 132" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031613.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 132
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20132.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 133" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031614.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 133
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20133.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 134" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031615.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 134
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20134.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 135" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031616.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 135
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20135.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 136" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031617.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 136
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20136.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 137" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031618.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 137
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20137.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 138" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031619.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 138
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20138.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 139" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031620.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 139
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20139.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 140" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031621.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 140
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20140.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 141" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031622.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 141
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20141.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 142" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031623.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 142
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20142.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 143" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031624.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 143
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20143.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 144" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031625.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 144
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20144.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 145" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031626.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 145
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20145.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 146" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031627.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 146
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20146.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 147" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031628.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 147
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20147.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 148" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031629.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 148
+https://ia601509.us.archive.org/29/items/anime-2.0-114/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%20148.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031630.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 1
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2001.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031631.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 2
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2002.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031632.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 3
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2003.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 4" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031633.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 4
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2004.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 5" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031634.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 5
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2005.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 6" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031635.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 6
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2006.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 7" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031636.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 7
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2007.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 8" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031637.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 8
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2008.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 9" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031638.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 9
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2009.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 10" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031639.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 10
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2010.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 11" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031640.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 11
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2011.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 12" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031641.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 12
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2012.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 13" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031642.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 13
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2013.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 14" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031643.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 14
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2014.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 15" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031644.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 15
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2015.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 16" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031645.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 16
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2016.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 17" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031646.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 17
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2017.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 18" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031647.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 18
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2018.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 19" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031648.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 19
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2019.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 20" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031649.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 20
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2020.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 21" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031650.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 21
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2021.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 22" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031651.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 22
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2022.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 23" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031652.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 23
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2023.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 24" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904710/1026031653.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 24
+https://ia802506.us.archive.org/1/items/jjkaisen-17/JJkaisen%2024.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031654.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 1
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x1.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031655.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 2
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x2.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031656.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 3
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x3.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 4" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031657.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 4
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x4.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 5" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031658.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 5
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x5.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 6" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031659.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 6
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x6.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 7" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031660.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 7
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x7.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 8" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031661.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 8
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x8.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 9" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031662.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 9
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x9.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 10" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031663.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 10
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x10.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 11" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031664.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 11
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x11.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 12" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031665.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 12
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x12.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 13" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031666.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 13
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x13.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 14" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031667.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 14
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x14.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 15" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031668.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 15
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x15.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 16" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031669.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 16
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x16.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 17" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031670.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 17
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x17.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 18" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031671.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 18
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x18.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 19" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031672.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 19
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x19.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 20" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031673.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 20
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x20.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 21" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031674.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 21
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x21.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 22" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031675.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 22
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x22.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 23" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031676.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 23
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x23.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 24" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031677.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 24
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x24.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 25" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904711/1026031678.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 25
+https://ia904704.us.archive.org/6/items/rari-2x-13/%C8%BA%C9%BE%D5%A71x25.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031679.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 1
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x1.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031680.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 2
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x2.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031681.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 3
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x3.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 4" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031682.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 4
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x4.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 5" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031683.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 5
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x5.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 6" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031684.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 6
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x6.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 7" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031685.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 7
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x7.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 8" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031686.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 8
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x8.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 9" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031687.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 9
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x9.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 10" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031688.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 10
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x10.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 11" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031689.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 11
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x11.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 12" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031690.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 12
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x12.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 13" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031691.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 13
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x13.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 14" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031692.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 14
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x14.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 15" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031693.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 15
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x15.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 16" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031694.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 16
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x16.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 17" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031695.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 17
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x17.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 18" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031696.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 18
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x18.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 19" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031697.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 19
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x19.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 20" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031698.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 20
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x20.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 21" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031699.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 21
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x21.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 22" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031700.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 22
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x22.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 23" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031701.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 23
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x23.mp4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 24" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904712/1026031702.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 24
+https://ia601500.us.archive.org/18/items/rari-2x-16/%CF%9A%D5%A1%D6%85%C9%BE%D5%AA%C8%BA%C9%BE%D5%A7%E0%B6%A7%D5%B2%D3%80%C3%AC%D5%B2%D2%BD2x24.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="📺BMC📡NEW🇵🇭",A2Z
 http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="📺BMC📡NEW🇵🇭",ABC 7
