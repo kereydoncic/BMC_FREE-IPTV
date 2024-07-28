@@ -1,55 +1,38 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: BMC🇵🇭",WAG MO IBENTA MAKONSENSYA KA NAMAN ABA!
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",A2Z
 http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=phcorner&p=61038d2ff4eb84b2e6e8956179ff47ef2b729ff7cba45a6ad8ea062fdd4a3fd8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ABC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ABS CBN
 http://trickflix1.duckdns.org:1234/stream/trickflix/sonuchannelhd/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ACTION HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",All TV
 http://115.146.176.131:80/TimRizal/TimRizal/60.ts
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Ang Dating Daan
 https://ythls.armelin.one/channel/UCFRj7FPKTthzA_gfE2PsGJQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Animal planet
 http://abcnew.site:8880/DYJ14M2353/4745643534/66820
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",ANIMAX
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Aomori TV
 https://ythls.armelin.one/channel/UCdNYphHZdRYjpys_gwofUNQ.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BBC News Asia-Pacific
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Asahi
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 
