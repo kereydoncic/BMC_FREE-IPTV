@@ -458,12 +458,235 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",One Piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
+#EXTINF:-1 tvg-id="307748" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240725&channel_id=307748" tvg-logo="https://drive.google.com/uc?export=view&id=1q9twUbuseWhA2gSeeswULH4lP4VG2PDl" tvg-name="A2Z" group-title="JBMC BACKUP PH CH📺📡",A2Z
+https://g1z1.short.gy/A2Z
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.733501d46e6a66d735a3eff9eec51a52?rik=YacQbv0p778vng&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Animal Planet
+https://g1z1.short.gy/AnimalPlanet
+#EXTINF:-1 tvg-id="322446" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240725&channel_id=322446" tvg-logo="https://th.bing.com/th/id/R.be8247a13054313442039edb92cc15ac?rik=zyhsf2hQtFZX2A&pid=ImgRaw&r=0" tvg-name="ARIRANG" group-title="JBMC BACKUP PH CH📺📡",Arirang
+https://g1z1.short.gy/Arirang
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hH15CNYKFSX0AJ-nXwaZaAHaBe?rs=1&pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Asian Crush
+https://g1z1.short.gy/AsianCrush
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/469-4699767_asian-food-network-logo-hd-png-download.png" group-title="JBMC BACKUP PH CH📺📡",Asian Food Network
+https://g1z1.short.gy/AsianFoodNetwork
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/54755ec8e4b0930af4181a37/t/56f198dbb09f9548fa061d15/1458673902267/" group-title="JBMC BACKUP PH CH📺📡",BBC EARTH
+https://g1z1.short.gy/BBCEARTH
+#EXTINF:-1 tvg-id="" tvg-logo="https://orangemagazine.ph/wp-content/uploads/2021/07/BuKo-Logo-1-600x642.png" tvg-name="BUKO" group-title="JBMC BACKUP PH CH📺📡",BUKO
+https://g1z1.short.gy/BUKO
+#EXTINF:-1 tvg-id="73817" tvg-url="https://epg.pw/api/epg.json?lang=en&date=20240727&channel_id=73817" tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/styles/image_700x394/public/ct_custom_page_f_primary_image/gem-default-thumb-20200318.jpg?itok=_ej4SuF_" tvg-name="GEM" group-title="JBMC BACKUP PH CH📺📡",GEM
+https://g1z1.short.gy/GEM
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d0165b6db6563373f0bfac9775fabf05?rik=bsiELqI%2ft6A%2bCA&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",GMA Life TV
+https://g1z1.short.gy/GMALifeTV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.osCrhcfvAFyO8Q6hR9Zz5wHaE6?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",GMA Pinoy TV
+https://g1z1.short.gy/GMAPinoyTV
+#EXTINF:-1 tvg-id="70615" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240725&channel_id=70615" tvg-logo="https://th.bing.com/th/id/OIP.VxyWrr_MsCyvzIyWmXrIzwHaEJ?w=500&h=280&rs=1&pid=ImgDetMain" tvg-name="GMA" group-title="JBMC BACKUP PH CH📺📡",GMA7
+https://g1z1.short.gy/GMA7
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/99-998564_gma-network-logo-gma-logo-png.png" group-title="JBMC BACKUP PH CH📺📡",GMA7 (Youtube)
+https://g1z1.short.gy/GMA(Youtube)
+#EXTINF:-1 tvg-id="70607" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240727&channel_id=70607" tvg-logo="https://th.bing.com/th/id/OIP.nWckFqsJqwd_UWdth7WHwAAAAA?rs=1&pid=ImgDetMain" tvg-name="GTV" group-title="JBMC BACKUP PH CH📺📡",GTV
+https://g1z1.short.gy/GTV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Y6eG3ddnRMIQbGnTvuKS8wHaDX?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",HITS
+https://g1z1.short.gy/HITS
+#EXTINF:-1 tvg-id="81367" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240727&channel_id=81367" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9d/IBC_13_Logo_2023.png/revision/latest/scale-to-width-down/300?cb=20240525141027" tvg-name="IBC TV 13" group-title="JBMC BACKUP PH CH📺📡",IBC13
+https://g1z1.short.gy/IBC13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="JBMC BACKUP PH CH📺📡",K+
+https://g1z1.short.gy/K+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.85ded36b01b02bc062e5cb90e414aa0c?rik=Sc29L0lIe7hXuw&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Kapamilya Online
+https://g1z1.short.gy/KapamilyaOnline
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.1e170e57f42899c20d489570baf5a4c7?rik=ikuWDh%2fBebdiKQ&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Kix
+https://g1z1.short.gy/Kix
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.bpVebGpvFgRjZ7f8aco5CgHaCr?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Rock Entertainment
+https://g1z1.short.gy/RockEntertainment
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hWUhA4FmrinqMTykADb9NwHaEX?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",RPTV
+https://g1z1.short.gy/RPTV
+#EXTINF:-1 tvg-id="322467" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240727&channel_id=322467" tvg-logo="https://th.bing.com/th/id/R.73c9a6bd49638f90f8caf65cefa9c534?rik=31x2J0EfUSHayQ&pid=ImgRaw&r=0" tvg-name="Sari Sari" group-title="JBMC BACKUP PH CH📺📡",SARI SARI
+https://g1z1.short.gy/SariSari
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.4_c9EanT9UDLW0NBnSmoSgAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Tap Edge
+https://g1z1.short.gy/TapEdge
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.ed7c5876b12bdcc4e442371ea09b1e72?rik=tVCbywI0TcvsSA&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Tap TV
+https://g1z1.short.gy/TapTV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.423250843dc8f6cefd3e61c8b749a890?rik=1FJPkd6rM2GGPA&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",TFC
+https://g1z1.short.gy/TFC
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.lraEfGPpTBNUlVpB7t8nFQHaDt?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Travel Channel
+https://g1z1.short.gy/TrvlChannel
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ABP0DWYZ6I_WpSd00SdNEAHaHa?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",TV5
+https://g1z1.short.gy/TV5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="JBMC BACKUP PH CH📺📡",tVN
+https://g1z1.short.gy/tvN
+#EXTINF:-1 tvg-id="12649" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240727&channel_id=12649" tvg-logo="https://th.bing.com/th/id/OIP.8xIdcYektX82pKAdaXcQEgHaHr?pid=ImgDetMain" tvg-name="WARNER TV" group-title="JBMC BACKUP PH CH📺📡",Warner TV
+https://g1z1.short.gy/WarnerTV
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.EIYJHzGIyXi7iTTWLaHZtgHaGM?rs=1&pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Wild Planet
+https://g1z1.short.gy/WildPlanet
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="JBMC BACKUP PH CH📺📡",WWE Network
+https://g1z1.short.gy/WWE
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.bVtBtlxNLsSkmFteloyGRAHaEJ?rs=1&pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",CH298
+https://g1z1.short.gy/CIGNAL298
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.bVtBtlxNLsSkmFteloyGRAHaEJ?rs=1&pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",CH299
+https://g1z1.short.gy/Cignal197
+#EXTINF:-1 tvg-id="805010" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : USA NETWORK" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : USA NETWORK
+https://g1z1.short.gy/USANETWORK
+#EXTINF:-1 tvg-id="673036" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : 9GEM" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : 9GEM
+https://g1z1.short.gy/9GEM
+#EXTINF:-1 tvg-id="837856" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : BBC1" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : BBC1
+https://g1z1.short.gy/BBC1
+#EXTINF:-1 tvg-id="938686" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : BBC2" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : BBC2
+https://g1z1.short.gy/BBC2
+#EXTINF:-1 tvg-id="935158" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : CBC" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : CBC
+https://g1z1.short.gy/CBC
+#EXTINF:-1 tvg-id="898499" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : CHANNEL 9" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : CHANNEL 9
+https://g1z1.short.gy/Channel9
+#EXTINF:-1 tvg-id="655320" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : EUROSPORT 1" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : EUROSPORT 1
+https://g1z1.short.gy/Eurosport1
+#EXTINF:-1 tvg-id="686002" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : EUROSPORT 2" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : EUROSPORT 2
+https://g1z1.short.gy/Eurosport2
+#EXTINF:-1 tvg-id="362030" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : NBC LOS ANGELES" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : NBC LOS ANGELES
+https://g1z1.short.gy/NBCLA
+#EXTINF:-1 tvg-id="807446" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : NBC NEW YORK" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : NBC NEW YORK
+https://g1z1.short.gy/NBCNY
+#EXTINF:-1 tvg-id="953011" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : SPORTSNET EAST" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : SPORTSNET EAST
+https://g1z1.short.gy/SportsnetEast
+#EXTINF:-1 tvg-id="240551" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : SPORTSNET ONE" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : SPORTSNET ONE
+https://g1z1.short.gy/SportnetOne
+#EXTINF:-1 tvg-id="886571" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : SPORTSNET WEST" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : SPORTSNET WEST
+https://g1z1.short.gy/SportnetWest
+#EXTINF:-1 tvg-id="643467" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : TELEMUNDO" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : TELEMUNDO
+https://g1z1.short.gy/Telemundo
+#EXTINF:-1 tvg-id="549478" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : TSN1" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : TSN1
+https://g1z1.short.gy/TSN1
+#EXTINF:-1 tvg-id="241392" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : TSN2" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : TSN2
+https://g1z1.short.gy/TSN2
+#EXTINF:-1 tvg-id="495368" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : TSN3" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : TSN3
+https://g1z1.short.gy/TSN3
+#EXTINF:-1 tvg-id="477028" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : TSN4" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : TSN4
+https://g1z1.short.gy/TSN4
+#EXTINF:-1 tvg-id="997002" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/2024_Summer_Olympics_logo.svg/440px-2024_Summer_Olympics_logo.svg.png" tvg-name="PARIS2024 : TSN5" group-title="JBMC BACKUP PH CH📺📡",PARIS2024 : TSN5
+https://g1z1.short.gy/TSN5
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.-3gLhOrNAsudaOqQ92DJewAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Cinema One
+https://g1z1.short.gy/CinemaOne
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.0vDB_3l1oqIdZ6-r7KdLYAAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Cinemax
+https://g1z1.short.gy/Cinemax
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6fd72eaed21a916d3ea21a037dce304b?rik=oIaHTrDFAFAN%2fw&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="JBMC BACKUP PH CH📺📡",CineMo!
+https://g1z1.short.gy/CineMo
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.42toH6OyPEShKmYEJ_j3owAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",HITS Movies
+https://g1z1.short.gy/HitsMovies
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.uvYKFBubGFR40NtgWh7W8wHaES?rs=1&pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",K-Movies
+https://g1z1.short.gy/KMovies
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/R4AIm13f3RZ5CPAFWuU8DRmpmtj6bne2S4n1K3RPvoJu3Nu5hpgbWcfD0VGMlz8CPPEJtN2T_g=s900-c-k-c0x00ffffff-no-rj" group-title="JBMC BACKUP PH CH📺📡",Movies Sphere
+https://g1z1.short.gy/MovieSphere
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.0c6d3hoH5evqsJVNnbhVNwHaC3?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Rock Action
+https://g1z1.short.gy/RockAction
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.WZNc9JRohbV1FoJtSSeibQAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Tap Action
+https://g1z1.short.gy/TapAction
+#EXTINF:-1 group-title="JBMC BACKUP PH CH📺📡",Thrill
+https://g1z1.short.gy/Thrill
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18120023/tmc-logo-300x300.png" group-title="JBMC BACKUP PH CH📺📡",TMC
+https://g1z1.short.gy/TMC
+#EXTINF:-1 tvg-logo="http://www.businesskorea.co.kr/news/photo/201701/18969_17028_0.jpg" group-title="JBMC BACKUP PH CH📺📡",tVN Movies Tagalog
+https://g1z1.short.gy/tvNMovies
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP._axKsIzLt6axiA5tJwpUsgAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",VIVA Cinema
+https://g1z1.short.gy/ViVACinema
+#EXTINF:-1 tvg-id="322476" tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20240725&channel_id=322476" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo-1980-present-700x394.jpg" tvg-name="HBO" group-title="JBMC BACKUP PH CH📺📡",HBO
+https://g1z1.short.gy/HBO
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.41baee14d26637fe440c3be0d10aa8e4?rik=l0S9909Lnlfj0g&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",HBO Comedy
+https://g1z1.short.gy/HBOcomedy
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.fa93462a9415340de9c20bfeda5e4212?rik=TeIiwD8%2f%2bvXgaQ&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",HBO Family
+https://g1z1.short.gy/HBOFamily
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.X9qF4O4oQaTIKsbCFApQ9wAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",HBO Signature
+https://g1z1.short.gy/HBOSignature
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.44db05e3af9d4a1326bf7944e25ab97b?rik=HVdYJLymhkQDpA&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",HBO Zone
+https://g1z1.short.gy/HBOZone
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.egBbeVav-BkvqIqATpISiAHaHa?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",HBO2
+https://g1z1.short.gy/HBO2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Animax_logo.svg" group-title="JBMC BACKUP PH CH📺📡",Animax
+https://g1z1.short.gy/Animax
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WrysdkWqi6r763mRD8GO2o7Xn854zCml" group-title="JBMC BACKUP PH CH📺📡",Anime All Day
+https://g1z1.short.gy/AnimeAllDay
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Crunchyroll-Logo-2012-present.jpg" group-title="JBMC BACKUP PH CH📺📡",Crunchyroll
+https://g1z1.short.gy/Crunchyroll
+#EXTINF:-1 tvg-logo="https://tse3.mm.bing.net/th/id/OIP.MJlomMFm_utsSWY8pryOfwHaEK?rs=1&pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",One Piece
+https://g1z1.short.gy/OnePiece
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.fJZ2_7Bw0ReoJa1p6LRAEQHaFF?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",BOOMERANG
+https://g1z1.short.gy/Boomerang
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.uZwHDD4poKo7C1k4B8G1rwHaE3?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Cartoon Network
+https://g1z1.short.gy/CartoonNetwork
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ALWJ2WbVHYo_264G5VnzUAHaED?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Cartoonito
+https://g1z1.short.gy/Cartoonito
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.J4hCjz5y-926scS5YIYYdwAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Disney Channel
+https://g1z1.short.gy/DisneyChannel
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.0212e48533d134389681820a1299d6be?rik=3CZejtY2tJDw%2bQ&riu=http%3a%2f%2fimages5.fanpop.com%2fimage%2fphotos%2f27500000%2fDisney-Junior-Logo-disney-junior-27558537-2560-1920.jpg&ehk=5hjaAQr%2bBEfFFLmUNjewqHJhimG6vcWWSh%2bysXQlbao%3d&risl=&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Disney Jr
+https://g1z1.short.gy/DisneyJr
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.6d023ff048ebca833e7e1c7b05d58753?rik=zYfZu3151BhsnQ&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Disney XD
+https://g1z1.short.gy/DisneyXD
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rwlBYxzgKt2dexn5I1_zpQHaFj?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",DreamWorks
+https://g1z1.short.gy/DreamWorks
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.J-YYLBtweRrtE1EwQ9pC0QHaEK?rs=1&pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",DreamWorks Tagalog
+https://g1z1.short.gy/DreamWorksTagalog
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.wtos0Q-co5f9l-aaHRCdwgHaCj?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Moonbug
+https://g1z1.short.gy/Moonbug
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hrNUe-akfxBb1B2nEIeP_wAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Nick Jr
+https://g1z1.short.gy/NickJr
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.EtDrJpX_3EXT1ecw0fTMZAHaF0?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Nickelodeon
+https://g1z1.short.gy/Nickelodeon
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.RmGX5uGIf61c90O-Uri-zQHaFd?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",NickToons
+https://g1z1.short.gy/NickToons
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idZz-uVkIu/idypJcPfrU.png?updated=1701099282868" group-title="JBMC BACKUP PH CH📺📡",Music Choice 90s
+https://g1z1.short.gy/MusicChoice90s
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idZz-uVkIu/idypJcPfrU.png?updated=1701099282868" group-title="JBMC BACKUP PH CH📺📡",Music Choice Y2K
+https://g1z1.short.gy/MusicChoiceY2K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="JBMC BACKUP PH CH📺📡",MTV Live
+https://g1z1.short.gy/MTVLive
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.da70b0bc21105394fd517f0fb7a0db03?rik=jdW8iGfDHHQUFg&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Myx
+https://g1z1.short.gy/Myx
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Nh2NzFgHr-h-DMEO33fFZwHaEK?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",ESPN
+https://g1z1.short.gy/ESPN
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.VJpd8ms9DB41IjHVpqIChAHaEn?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",MPTV
+https://g1z1.short.gy/MPTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="JBMC BACKUP PH CH📺📡",NBA TV
+https://g1z1.short.gy/NBATV
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rhkUI06DC_RN6aE_NLJ-8AAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",One Sports
+https://g1z1.short.gy/OneSports
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ClY2OqFuWDEmjm7tCO3T0QAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",One Sports+
+https://g1z1.short.gy/OneSports+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.hCrjiVa_ravdMdaJwpAkYwHaHW?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",PBA RUSH
+https://g1z1.short.gy/PBARUSH
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Jr1g_NyZAoQSKIo6IhXiUwAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Premier Sports
+https://g1z1.short.gy/PremierSports
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.4e1a2dc0a7a03207617d7e21cfecd6ed?rik=SNxxQZg5g5zX3Q&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",UAAP VARSITY
+https://g1z1.short.gy/UAAPVARSITY
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.RBBr6rvBML5lCOW2qCEQLgHaJE?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",Al Jazeera
+https://g1z1.short.gy/AlJazeera
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.5b518428bf26f011a687d4e497f685a0?rik=bEObwGF%2fTdF1Nw&pid=ImgRaw&r=0&sres=1&sresct=1" group-title="JBMC BACKUP PH CH📺📡",ANC
+https://g1z1.short.gy/ANC
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/BBC-News-logo-500x296.jpg" group-title="JBMC BACKUP PH CH📺📡",BBC News
+https://g1z1.short.gy/BBCNEWS
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rHypb-US4R0PRXKoJ5Y4JwHaDT?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",CNN
+https://g1z1.short.gy/CNN
+#EXTINF:-1 tvg-logo="https://aphrodite.gmanetwork.com/assets/radio/images/tcard/super_radyo.png" group-title="JBMC BACKUP PH CH📺📡",DZBB
+https://g1z1.short.gy/DZBB
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.2c511aed8c6cdc94bc58da8ef7b918ff?rik=3xc8oNrUZUG7Fw&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",GMA News
+https://g1z1.short.gy/GMANews
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.92704b6e904e51563692e22b041c0574?rik=wJvrtj4zSt9p3w&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",NHK World News
+https://g1z1.short.gy/NHKWorld
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/one-news-logo.jpg" group-title="JBMC BACKUP PH CH📺📡",One News
+https://g1z1.short.gy/OneNews
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.VFN5ge6hBzP5uudSV5giGwAAAA?pid=ImgDetMain" group-title="JBMC BACKUP PH CH📺📡",TELERADYO
+https://g1z1.short.gy/Teleradyo
+#EXTINF:-1 group-title="JBMC BACKUP PH CH📺📡",GMA News Backup
+https://g1z1.short.gy/GMANewsBackup
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo.png" group-title="JBMC BACKUP PH CH📺📡",A2Z Backup
+https://g1z1.short.gy/A2ZBackup
+#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2020/08/kapamilya-onlive-live-logo.jpg" group-title="JBMC BACKUP PH CH📺📡",Kapamilya Online Backup
+http://jeromelaliag.link/iptv/abscbnentertainment.php
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.da70b0bc21105394fd517f0fb7a0db03?rik=jdW8iGfDHHQUFg&pid=ImgRaw&r=0" group-title="JBMC BACKUP PH CH📺📡",Myx Backup
+https://g1z1.short.gy/MyxBackup
+#EXTINF:-1 group-title="JBMC BACKUP PH CH📺📡",One Sports Backup
+https://g1z1.short.gy/OneSportsBackup
+#EXTINF:-1 group-title="JBMC BACKUP PH CH📺📡",TV5 Backup
+https://g1z1.short.gy/TV5Backup
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031482.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 1
 https://ia801504.us.archive.org/13/items/anime-2.0-5/%F0%9D%97%94%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%BA%F0%9D%97%B2%20%F0%9D%9F%AE.%F0%9D%9F%AC%20-%201.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPISODE 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/cc87d710-a15d-11ee-9a31-797d86e9dc9e/5904709/1026031483.jpg" group-title="📺 BMC ANIME SERIES CHANNEL📡🇵🇭",EPISODE 2
