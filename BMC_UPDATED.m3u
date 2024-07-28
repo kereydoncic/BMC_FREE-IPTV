@@ -1,22 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="FREE IPTV BY: J-BMC🇵🇭",NOT FOR SALE!
 http://178.128.21.207:1234/stream/new/celestialmoviespinoy/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", A2Z
 http://178.128.21.207:1234/stream/new/a2z/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Animax
 http://178.128.21.207:1234/stream/new/animax/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Anime X HiDive
 http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", AXN
 http://178.128.21.207:1234/stream/new/axn/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", BBC Earth HD
 http://178.128.21.207:1234/stream/new/bbcearth/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-
 #EXTINF:1 tvg-logo="https://imgur.com/tMg25xy.jpg" group-title="📺J-BMC MAIN PH📡🇵🇭", Cartoon Network
 http://178.128.21.207:1234/stream/new/cartoonnetwork/master.m3u8?u=donald&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 
