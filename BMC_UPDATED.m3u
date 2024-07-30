@@ -192,144 +192,844 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43nZ2rv.png" group-title="📺BACK-UP PH V3📡",A2Z
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276601.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5f/GMA_Alternative_Logo_2024.png" group-title="📺BACK-UP PH V3📡",GMA 7
+http://178.128.21.207:1234/stream/vision/gma/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txozMGM.png" group-title="📺BACK-UP PH V3📡",GTV
+http://178.128.21.207:1234/stream/vision/gtv/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Heartofasiaa.png/revision/latest?cb=20200807061724" group-title="📺BACK-UP PH V3📡",Heart of Asia
+http://vstream.vip/live/0A231A38A3B9781FF623800E2D3B24EC/151
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6XcXK9.png" group-title="📺BACK-UP PH V3📡",GMA Pinoy TV
+http://starshare.live:8080/live/127718262420/127744325447/151021.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png" group-title="📺BACK-UP PH V3📡",Kapamilya Channel HD
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144837.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="📺BACK-UP PH V3📡",TV5
+http://115.146.176.131:80/TimRizal/TimRizal/90.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/2/21/RPTV_Vector_Logo_2024.png" group-title="📺BACK-UP PH V3📡",RPTV HD
+https://notflix-s1.13l.link/stream/notflix/rptv/stream.m3u8?uid=3847659834&u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EyllYb4.png" group-title="📺BACK-UP PH V3📡",Kapatid International
+http://starshare.live:8080/live/127718262420/127744325447/151022.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ueMnBCR.png" group-title="📺BACK-UP PH V3📡",PTV 4
+http://starshare.live:8080/live/127718262420/127744325447/151073.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="📺BACK-UP PH V3📡",BuKo Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299952.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MXxN1UO.png" group-title="📺BACK-UP PH V3📡",Sari-Sari
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276602.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png/revision/latest?cb=20220308233726" group-title="📺BACK-UP PH V3📡",DepEd TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299951.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png" group-title="📺BACK-UP PH V3📡",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="📺BACK-UP PH V3📡",DZRH TV
+http://115.146.176.131:80/TimRizal/TimRizal/23.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/2/20/ALIW_Channel_23_Logo_2023.png/revision/latest/scale-to-width-down/1200?cb=20230131144504" group-title="📺BACK-UP PH V3📡",ALIW Channel
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="📺BACK-UP PH V3📡",SolarFlix
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="📺BACK-UP PH V3📡",CCTN 47
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/146706.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/FUBC_One_Media_Network_Logo_-_Vector.svg/800px-FUBC_One_Media_Network_Logo_-_Vector.svg.png" group-title="📺BACK-UP PH V3📡",One Media
+http://115.146.176.131:80/TimRizal/TimRizal/44.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.pnghttps://static.wikia.nocookie.net/russel/images/2/21/RPTV_Vector_Logo_2024.png" group-title="📺BACK-UP PH V3📡",TV5 HDRPTV
+http://115.146.176.131:80/TimRizal/TimRizal/4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" group-title="📺BACK-UP PH V3📡",Cinema One
+http://115.146.176.131:80/TimRizal/TimRizal/31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="📺BACK-UP PH V3📡",Cinema One Global
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png" group-title="📺BACK-UP PH V3📡",CineMo! Global
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="📺BACK-UP PH V3📡",PBO
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276532.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="📺BACK-UP PH V3📡",VIVA Cinema
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHw2IP7.png" group-title="📺BACK-UP PH V3📡",CineMundo Pinoy
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGiZM7E.png" group-title="📺BACK-UP PH V3📡",ScreamFlix
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="📺BACK-UP PH V3📡",TMC
+http://178.128.21.207:1234/stream/new/rockaction2/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="📺BACK-UP PH V3📡",tvN Movies Pinoy
+https://notflix-s1.13l.link/stream/notflix/tvnmovies/stream.m3u8?uid=2493605588&u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png" group-title="📺BACK-UP PH V3📡",One Sports
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299947.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="📺BACK-UP PH V3📡",One Sports+
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/290365.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png" group-title="📺BACK-UP PH V3📡",Solar Sports
+http://115.146.176.131:80/TimRizal/TimRizal/80.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2npB7o.png" group-title="📺BACK-UP PH V3📡",PBA Rush
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299950.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V0sxXci.png" group-title="📺BACK-UP PH V3📡",UAAP Varsity Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299944.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/NBA_TV_Philippines.png" group-title="📺BACK-UP PH V3📡",NBA TV Philippines
+http://115.146.176.131:80/TimRizal/TimRizal/97.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/brkAIAh.png" group-title="📺BACK-UP PH V3📡",NBC Golf Philippines
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nV55veq.png" group-title="📺BACK-UP PH V3📡",Fight Sports
+http://115.146.176.131:80/TimRizal/TimRizal/65.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZsWDiRF.png" group-title="📺BACK-UP PH V3📡",TAP Sports
+http://starshare.live:8080/live/127718262420/127744325447/150969.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="📺BACK-UP PH V3📡",Premier Sports
+http://starshare.live:8080/live/127718262420/127744325447/150978.m3u8
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1641949301_premier-sports-2.png" group-title="📺BACK-UP PH V3📡",Premier Sports 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276599.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lWvrtfR.png" group-title="📺BACK-UP PH V3📡",SPOTV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298570.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png" group-title="📺BACK-UP PH V3📡",SPOTV2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298571.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/2560px-Eurosport_Logo_2015.svg.png" group-title="📺BACK-UP PH V3📡",Eurosport
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/158353.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/rR5SYHY.png" group-title="📺BACK-UP PH V3📡",Trace Sport Stars
+http://115.146.176.131:80/TimRizal/TimRizal/29.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NOBlLVC.png" group-title="📺BACK-UP PH V3📡",Pinoy Xtreme
+http://115.146.176.131:80/TimRizal/TimRizal/37.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1PQpXuc.png" group-title="📺BACK-UP PH V3📡",beIN Sports 1
+http://starshare.live:8080/live/127718262420/127744325447/143059.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="📺BACK-UP PH V3📡",beIN Sports 2
+http://starshare.live:8080/live/127718262420/127744325447/143060.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1MCiQfV.png" group-title="📺BACK-UP PH V3📡",beIN Sports 3
+http://starshare.live:8080/live/127718262420/127744325447/143062.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="📺BACK-UP PH V3📡",beIN Sports 4
+http://starshare.live:8080/live/127718262420/127744325447/143015.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_425_305" group-title="📺BACK-UP PH V3📡",beIN Sports 5
+http://starshare.live:8080/live/127718262420/127744325447/143012.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1y87xCY.png" group-title="📺BACK-UP PH V3📡",beIN Sports XTRA
+http://starshare.live:8080/live/127718262420/127744325447/142107.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UkJY0dZ.png" group-title="📺BACK-UP PH V3📡",NBA TV
+http://starshare.live:8080/live/127718262420/127744325447/1010.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5hqShvt.png" group-title="📺BACK-UP PH V3📡",NBA TV Canada
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/13222.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="📺BACK-UP PH V3📡",ESPN
+http://starshare.live:8080/live/127718262420/127744325447/1011.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Er81xM.png" group-title="📺BACK-UP PH V3📡",ESPN 2
+http://starshare.live:8080/live/127718262420/127744325447/53.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/4tcCzhX.png" group-title="📺BACK-UP PH V3📡",ESPN 3
+http://starshare.live:8080/live/127718262420/127744325447/52.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/D7IhWUb.png" group-title="📺BACK-UP PH V3📡",TNT Sports 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/270.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/Wq0tSzH.png" group-title="📺BACK-UP PH V3📡",TNT Sports 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/273.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/U5Kk0kT.png" group-title="📺BACK-UP PH V3📡",TNT Sports 3
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/271.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o7z4LSt.png" group-title="📺BACK-UP PH V3📡",Fox Sports 1
+http://starshare.live:8080/live/127718262420/127744325447/54.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ib4o2X7.png" group-title="📺BACK-UP PH V3📡",Fox Sports 2
+http://starshare.live:8080/live/127718262420/127744325447/55.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s" group-title="📺BACK-UP PH V3📡",Eurosport 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/692.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr_sctPKE6GnjYQQWW1wdGiI8MUUazZedkQ&s" group-title="📺BACK-UP PH V3📡",Eurosport 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1555.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="📺BACK-UP PH V3📡",Golf Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/5845.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/Jlgby01.png" group-title="📺BACK-UP PH V3📡",UFC Fight Pass
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/280280.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2agsNi7.png" group-title="📺BACK-UP PH V3📡",MLB Network
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2342.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FplCH0a.png" group-title="📺BACK-UP PH V3📡",NFL Network
+http://starshare.live:8080/live/127718262420/127744325447/3415.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gv0kIw9.png" group-title="📺BACK-UP PH V3📡",WWE Network
+http://starshare.live:8080/live/127718262420/127744325447/711.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NaJOJH0.png" group-title="📺BACK-UP PH V3📡",EDGEsport
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/54012.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/300px-Fight_network_logo.svg.png" group-title="📺BACK-UP PH V3📡",Fight Network
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302680.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/FMcpiXz.png" group-title="📺BACK-UP PH V3📡",Sports 18
+http://starshare.live:8080/live/127718262420/127744325447/151091.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePFs2qG.png" group-title="📺BACK-UP PH V3📡",Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="📺BACK-UP PH V3📡",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/VHBs7rY.png" group-title="📺BACK-UP PH V3📡",Big Ten Network
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2279.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RThOrN.png" group-title="📺BACK-UP PH V3📡",Horse & Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/BmXK3Xm.png" group-title="📺BACK-UP PH V3📡",Tennis Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2275.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/pphglnK.png" group-title="📺BACK-UP PH V3📡",CBS Sports HQ
+https://jmp2.uk/SamsungTVPlus/USBB4800005VO.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="📺BACK-UP PH V3📡",Sky Sports Arena
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/267.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kvgfi9B.png" group-title="📺BACK-UP PH V3📡",Sky Sports Cricket
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/269.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="📺BACK-UP PH V3📡",Sky Sports Football
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/266.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="📺BACK-UP PH V3📡",Sky Sports F1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/265.ts
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBHb2xm" group-title="📺BACK-UP PH V3📡",Sku Sports Golf
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/264.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png" group-title="📺BACK-UP PH V3📡",Sky Sports Main Event
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/283053.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="📺BACK-UP PH V3📡",Sky Sports Mix
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/261.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Sky_Sport_News_Logo_2020.png" group-title="📺BACK-UP PH V3📡",Sky Sports News
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/260.ts
+#EXTINF:-1 tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt9e258f9dbc43612f/603d748dff74f15954098bb7/PremierLeague_ModalChannelLogo.png" group-title="📺BACK-UP PH V3📡",Sky Sports Premier League
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/263.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Sky_Sports_Racing_logo_2020.svg/2560px-Sky_Sports_Racing_logo_2020.svg.png" group-title="📺BACK-UP PH V3📡",Sky Sports Racing
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/163132.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/YzFAlP7.pnghttps://imgur.com/gn0Ihn3.png" group-title="📺BACK-UP PH V3📡",ESPN UESPNews
+http://starshare.live:8080/live/127718262420/127744325447/7371.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NhWC8fO.pnghttps://imgur.com/rFM9irI.png" group-title="📺BACK-UP PH V3📡",World Poker TourFubo Sports Network
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/147553.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/01yZyNd.pnghttps://imgur.com/NYjDZCM.pnghttps://imgur.com/2Cz3vE3.pnghttps://imgur.com/02IcFJ4.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="📺BACK-UP PH V3📡",PGA TpurPBA RidePassBellator MMAGLORY KickboxingSky Sports Action
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/268.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/dGPKZbi.png" group-title="📺BACK-UP PH V3📡",Animax HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=300142&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qFewQQF.jpeg" group-title="📺BACK-UP PH V3📡",Anime x Hidlve
+http://178.128.21.207:1234/stream/new/animexhidive/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Anime All Day
+https://jmp2.uk/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9dqsy0.png" group-title="📺BACK-UP PH V3📡",Baby TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/281177.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/6cqDpEl.png" group-title="📺BACK-UP PH V3📡",Baby First TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/8591.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORWazw3.png" group-title="📺BACK-UP PH V3📡",Boomerang
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2281.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/L9jF0ln.png" group-title="📺BACK-UP PH V3📡",Boomerang West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1125.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/4b7CUYK.png" group-title="📺BACK-UP PH V3📡",Boomerang+1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302511.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="📺BACK-UP PH V3📡",Cartoon Network
+http://115.146.176.131:80/TimRizal/TimRizal/54.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7p2MpK.png" group-title="📺BACK-UP PH V3📡",Cartoon Network HD
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144835.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BW7GtXU.png" group-title="📺BACK-UP PH V3📡",Cartoon Network East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2286.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="📺BACK-UP PH V3📡",Cartoonito
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWl6nsQ.png" group-title="📺BACK-UP PH V3📡",Cartoonito West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1546.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xe9juXU.png" group-title="📺BACK-UP PH V3📡",CBeebies BBC
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/4753.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Comedy Central Animation
+https://jmp2.uk/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/6/60/Disney_Channel_logo_2019_KM959SX_1B.png/revision/latest?cb=20200128033841" group-title="📺BACK-UP PH V3📡",Disney Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2303.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aF0YP3k.png" group-title="📺BACK-UP PH V3📡",Disney Junior
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/8608.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/AMcUJWw.png" group-title="📺BACK-UP PH V3📡",Disney XD
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6395.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/DF_3D_Logo_Yellow.png" group-title="📺BACK-UP PH V3📡",Discovery Family
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=154167&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="📺BACK-UP PH V3📡",DreamWorks Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299949.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgfKSDP.png" group-title="📺BACK-UP PH V3📡",DreamWorks (Tagalized)
+http://178.128.21.207:1234/stream/new/dreamworkstagalog/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://kivismart.com/themes/kivi/assets/css/images/landing/dvlogo.png" group-title="📺BACK-UP PH V3📡",Da Vinci Channel
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Forever Kids
+https://jmp2.uk/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Lego Kids TV
+https://jmp2.uk/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/cb/Nickelodeon_2023_logo.png" group-title="📺BACK-UP PH V3📡",Nickelodeonn
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144870.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nick_Jr._logo_2023.webp" group-title="📺BACK-UP PH V3📡",Nick Jr.
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144898.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yB9pR6v.png" group-title="📺BACK-UP PH V3📡",Nickelodeonn East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/281864.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7IzZry6.png" group-title="📺BACK-UP PH V3📡",Nick Jr. East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1098.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yB9pR6v.png" group-title="📺BACK-UP PH V3📡",Nickelodeon West
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=300422&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7IzZry6.png" group-title="📺BACK-UP PH V3📡",Nick Jr. West
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=63082&extension=m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/3/3a/Nick_Jr._Too_splat_logo.png/revision/latest?cb=20240427051513" group-title="📺BACK-UP PH V3📡",Nick Jr. Too
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/4759.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofanon2/images/c/c7/Nicktoons_2023_logo-Splat.svg/revision/latest/scale-to-width-down/250?cb=20231228183300" group-title="📺BACK-UP PH V3📡",NickToons
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2351.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/e/e4/Nickplutotvlogo2023.png" group-title="📺BACK-UP PH V3📡",Nick Pluto TV
+https://jmp2.uk/SamsungTVPlus/ATAJ7000037N.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a9e9425-78dc-4ba0-8cf0-74c8eb23f673/dhbqse9-dc9f8bb3-e287-46c7-862b-79db08985f0c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNhOWU5NDI1LTc4ZGMtNGJhMC04Y2YwLTc0YzhlYjIzZjY3M1wvZGhicXNlOS1kYzlmOGJiMy1lMjg3LTQ2YzctODYyYi03OWRiMDg5ODVmMGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MhevcKbA2q3KDPnc-2WB5xyAGg1COBZEas1Q4qNdkwM" group-title="📺BACK-UP PH V3📡",Nick Jr. Pluto TV
+https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+#EXTINF:-1 tvg-logo="https://pocket.watch/wp-content/uploads/2020/12/pw_logo_1000.png" group-title="📺BACK-UP PH V3📡",pocket.watch
+https://jmp2.uk/SamsungTVPlus/USBD12000153A.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" group-title="📺BACK-UP PH V3📡",PBS Kids
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/14837.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/Uoj2nNp.png" group-title="📺BACK-UP PH V3📡",POP
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1599.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/19mlbUD.png" group-title="📺BACK-UP PH V3📡",POP Max
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1598.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sky_Kids_logo_2023.svg/2560px-Sky_Kids_logo_2023.svg.png" group-title="📺BACK-UP PH V3📡",Sky Kids
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302301.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/Wiuk2em.png" group-title="📺BACK-UP PH V3📡",Tiny POP
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/264542.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0aF3SA.png" group-title="📺BACK-UP PH V3📡",Toonami Aftermath
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FmIYdkg.png" group-title="📺BACK-UP PH V3📡",Universal Kids
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6399.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pUBoxm5.png" group-title="📺BACK-UP PH V3📡",ZooMoo
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302422.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Anime
+https://jmp2.uk/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Anime Kids
+https://jmp2.uk/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Anime Ação
+https://jmp2.uk/PlutoTV/604b79c558393100078faeef-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/612f761008a9e50007984ba0/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Animation
+https://jmp2.uk/PlutoTV/612f761008a9e50007984ba0-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9b648e738977e2c312131/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Kids
+https://jmp2.uk/PlutoTV/5ad9b648e738977e2c312131-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Kids Animation
+https://jmp2.uk/PlutoTV/5f8eba14a4ffb8000764e950-alt.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/70/Light_TV_White_Logo_2018.png" group-title="📺BACK-UP PH V3📡",Light TV
+http://115.146.176.131:80/TimRizal/TimRizal/39.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q56Zus4.png" group-title="📺BACK-UP PH V3📡",EWTN
+http://115.146.176.131:80/TimRizal/TimRizal/20.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/1SlKldV.png" group-title="📺BACK-UP PH V3📡",TBN Inspire
+https://tbn-jw.cdn.vustreams.com/live/inspire/live.isml/live-audio_1=128000-video=2800000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/TV_MARIA_logo.png" group-title="📺BACK-UP PH V3📡",TV Maria
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/INC_TV_New_Logo.png/220px-INC_TV_New_Logo.png" group-title="📺BACK-UP PH V3📡",INC TV
+http://115.146.176.131:80/TimRizal/TimRizal/6.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/46/Myx_Logo_2021.png" group-title="📺BACK-UP PH V3📡",MYX Global
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h3VTwLI.png" group-title="📺BACK-UP PH V3📡",Megapro TeleOke Channel
+http://115.146.176.131/TimRizal/TimRizal/70.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1DKJbdR.jpeg" group-title="📺BACK-UP PH V3📡",MusicQuest
+http://115.146.176.131:80/TimRizal/TimRizal/82.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="📺BACK-UP PH V3📡",MTV Live
+http://starshare.live:8080/live/127718262420/127744325447/143120.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/edhNVWP.png" group-title="📺BACK-UP PH V3📡",MTV 80s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/19911.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/pPzxK1q.png" group-title="📺BACK-UP PH V3📡",MTV 90s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/300952.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/bJyvO9A.png" group-title="📺BACK-UP PH V3📡",MTV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2344.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/Fw1mkla.png" group-title="📺BACK-UP PH V3📡",MTV 2
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=183741&extension=m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/QnXI5jS.png" group-title="📺BACK-UP PH V3📡",MTV U
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/57018.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMAqnUN.png" group-title="📺BACK-UP PH V3📡",MTV Live East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/9047.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/CD3JNX3.png" group-title="📺BACK-UP PH V3📡",MTV Classic
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/290680.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/5H9Kz1A.png" group-title="📺BACK-UP PH V3📡",MTV Base
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/32840.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/onMCiOp.png" group-title="📺BACK-UP PH V3📡",MTV Hits
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/4736.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-B_v_Kn5IVffJA2tBe5GZPEyvu8U7cvfYQ&s" group-title="📺BACK-UP PH V3📡",MTV Music
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/282262.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/3XyWDd0.png" group-title="📺BACK-UP PH V3📡",MTV Dance
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=183745&extension=m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ700002OG_20220323T072659SQUARE.png_20220323072702.png" group-title="📺BACK-UP PH V3📡",MTV Pluto TV
+https://jmp2.uk/SamsungTVPlus/DEAJ7000033P.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/paramountanimation/images/e/ea/NickMusic_2023.png/revision/latest?cb=20230907201720" group-title="📺BACK-UP PH V3📡",NickMusic
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/12982.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",MTV Spankin' New
+https://jmp2.uk/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",MTV Biggest Pop
+https://jmp2.uk/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/xUOc4rU.png" group-title="📺BACK-UP PH V3📡",Now 70s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/65074.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/v08Dhrb.png" group-title="📺BACK-UP PH V3📡",Now 80s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/4738.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPc8KO6.png" group-title="📺BACK-UP PH V3📡",Now 90s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/290406.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/Ht9w3sL.png" group-title="📺BACK-UP PH V3📡",Clubland
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=197575&extension=m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/37FkPzV.png" group-title="📺BACK-UP PH V3📡",Vsvo 80s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304712.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/Gk584P0.png" group-title="📺BACK-UP PH V3📡",Vevo 9ps
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304713.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/D4evV1o.png" group-title="📺BACK-UP PH V3📡",Vevo Retro Rock
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304721.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/gN8jRC9.pnghttps://imgur.com/RhriTgX.png" group-title="📺BACK-UP PH V3📡",MTV Block Party4Music
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=197582&extension=m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/6irYegS.pnghttps://imgur.com/nnS6Yqp.png" group-title="📺BACK-UP PH V3📡",Live Music PartyVevo 70s
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304711.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/0mJibMM.pnghttps://imgur.com/pKHOavk.pnghttps://imgur.com/20dRdC8.png" group-title="📺BACK-UP PH V3📡",Vevo CountryVevo True School Hip-HopCMT Equal Play
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8livestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&profilesFromStream=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="📺BACK-UP PH V3📡",TAP Edge
+http://starshare.live:8080/live/127718262420/127744325447/150970.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/TAP_ActionFlix_logo.png" group-title="📺BACK-UP PH V3📡",TAP Action Flix
+http://starshare.live:8080/live/127718262420/127744325447/150971.m3u8
+#EXTINF:-1 tvg-logo="https://emovie.ebc.net.tw/upload/emovie/img/logoes/mobile_logo.png" group-title="📺BACK-UP PH V3📡",EBC Movies
+http://115.146.176.131:80/TimRizal/TimRizal/52.m3u8
+#EXTINF:-1 tvg-logo="https://i.namu.wiki/i/M30xCDco9GT2NVT-ez1rrzNmuhXtTL1kpDOoXIsyLBJt4h9b3PLs77p5Khgd7vSkdwSD1RV7WPYxKMh4zQX0nA.webp" group-title="📺BACK-UP PH V3📡",My Cinema Europe
+http://115.146.176.131:80/TimRizal/TimRizal/67.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WeOSYdz.png" group-title="📺BACK-UP PH V3📡",Cinema World
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165082.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EnA2RcD.png" group-title="📺BACK-UP PH V3📡",HBO
+http://starshare.live:8080/live/127718262420/127744325447/142992.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pK92Aw8.png" group-title="📺BACK-UP PH V3📡",HBO Family
+http://starshare.live:8080/live/127718262420/127744325447/142998.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K52zUFR.png" group-title="📺BACK-UP PH V3📡",HBO Hits
+http://starshare.live:8080/live/127718262420/127744325447/143102.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t4HF5va.png" group-title="📺BACK-UP PH V3📡",HBO Signature
+http://178.128.21.207:1234/stream/new/hbosignature/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="📺BACK-UP PH V3📡",Warner TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/170006.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="📺BACK-UP PH V3📡",HITS
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144860.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="📺BACK-UP PH V3📡",HITS Movies
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/285605.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HBO_East.png/revision/latest?cb=20210809121308" group-title="📺BACK-UP PH V3📡",HBO 1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/16587.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h7M4S4f.png" group-title="📺BACK-UP PH V3📡",HBO 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/5844.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yByD6m.png" group-title="📺BACK-UP PH V3📡",HBO Comedy
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/151864.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p8kCD3r.png" group-title="📺BACK-UP PH V3📡",HBO Zone
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6328.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I39hGtT.png" group-title="📺BACK-UP PH V3📡",HBO Family East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/760.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjhcYwh.png" group-title="📺BACK-UP PH V3📡",HBO Signature Eaat
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6305.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OMER1D3.png" group-title="📺BACK-UP PH V3📡",AMC
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/751.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTROooq.png" group-title="📺BACK-UP PH V3📡",Bounce
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298313.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9IZrAbS.png" group-title="📺BACK-UP PH V3📡",Hallmark Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/759.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Hallmark_Family_2024.svg/revision/latest/scale-to-width-down/300?cb=20240228130703" group-title="📺BACK-UP PH V3📡",Hallmark Family
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304609.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Hallmark_Drama.svg/revision/latest/scale-to-width-down/300?cb=20171101204807" group-title="📺BACK-UP PH V3📡",Hallmark Drama
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3387.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IRy1gul.png" group-title="📺BACK-UP PH V3📡",Hallmark Movies & More
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304722.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifjaC02.png" group-title="📺BACK-UP PH V3📡",Hallmark Movies & Mysteries
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3388.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QyWsytf.png" group-title="📺BACK-UP PH V3📡",My Time Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="📺BACK-UP PH V3📡",Cinemax East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2261.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlUakGY.png" group-title="📺BACK-UP PH V3📡",ActionMax
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2274.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hiurn2U.png" group-title="📺BACK-UP PH V3📡",ThrillerMax
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/78147.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PIHPYG9.png" group-title="📺BACK-UP PH V3📡",MoreMax
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/752.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PRkpoy.png" group-title="📺BACK-UP PH V3📡",MovieMax
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/752.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Paf6URK.png" group-title="📺BACK-UP PH V3📡",OuterMax
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/15109.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/WzUtmHj.png" group-title="📺BACK-UP PH V3📡",FX
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/758.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSvHPIS.png" group-title="📺BACK-UP PH V3📡",FXX
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2330.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKhCkvn.png" group-title="📺BACK-UP PH V3📡",FXM
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/39873.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/FXM_Retro.svg/2560px-FXM_Retro.svg.png" group-title="📺BACK-UP PH V3📡",FXM Retro
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/5840.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qoPxJG.png" group-title="📺BACK-UP PH V3📡",MovieSphere
+http://xtream-ie.org/live/CHANNELONLY/CHANNELONLY/80.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epix_Logo_2019.svg/1280px-Epix_Logo_2019.svg.png" group-title="📺BACK-UP PH V3📡",Epix
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/15096.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/14rInpM.png" group-title="📺BACK-UP PH V3📡",Epix 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6372.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ab1ywkr.png" group-title="📺BACK-UP PH V3📡",Epix Drive-in
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/35054.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/EMm3jtx.png" group-title="📺BACK-UP PH V3📡",Epix Hits
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6357.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/51K9kTu.png" group-title="📺BACK-UP PH V3📡",USA Network
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3390.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yeT5sTG.png" group-title="📺BACK-UP PH V3📡",Freeform
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2329.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OlJVITr.png" group-title="📺BACK-UP PH V3📡",TruTV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299373.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63vAtMU.png" group-title="📺BACK-UP PH V3📡",VH1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2370.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7o3O7W.png" group-title="📺BACK-UP PH V3📡",Syfy
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2359.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3BU6Wsg.png" group-title="📺BACK-UP PH V3📡",&flix HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=374709&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lhSTeZk.png" group-title="📺BACK-UP PH V3📡",&privé HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=374710&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="📺BACK-UP PH V3📡",Star Movies HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="📺BACK-UP PH V3📡",Star Movies Select HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="📺BACK-UP PH V3📡",Sony Pix HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png" group-title="📺BACK-UP PH V3📡",Movies Now
+http://starshare.live:8080/live/127718262420/127744325447/152388.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8pJVe7c.png" group-title="📺BACK-UP PH V3📡",Starz West
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=183789&extension=m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mRfdzG7.png" group-title="📺BACK-UP PH V3📡",Starz Blaxk
+http://starshare.live:8080/live/127718262420/127744325447/1029.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FHUE5Fq.png" group-title="📺BACK-UP PH V3📡",Starz Cinema
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/767.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/veEH2bV.png" group-title="📺BACK-UP PH V3📡",Starz Comedy
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=374853&extension=m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ukRMJ1w.png" group-title="📺BACK-UP PH V3📡",Starz Edge
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2357.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/HfZPEor.png" group-title="📺BACK-UP PH V3📡",Starz Encore Action
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/30773.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/4d1SaQd.png" group-title="📺BACK-UP PH V3📡",Starz Encore Black
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/47925.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/TYvOfhN.png" group-title="📺BACK-UP PH V3📡",Starz Encore  Classic
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/25816.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/8WhzkzR.png" group-title="📺BACK-UP PH V3📡",Starz Encore Family
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/47926.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/OY5sWvF.png" group-title="📺BACK-UP PH V3📡",Starz Encore Suspense
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/38501.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/2560px-Starz_Encore_Westerns.svg.png" group-title="📺BACK-UP PH V3📡",Starz Encore Westerns
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/47928.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opZOQMG.png" group-title="📺BACK-UP PH V3📡",Starz in Black
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/15056.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opZOQMG.png" group-title="📺BACK-UP PH V3📡",Starz in Black West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/200114.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/SoHWKVc.png" group-title="📺BACK-UP PH V3📡",Showtime
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304576.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/8g4git5.png" group-title="📺BACK-UP PH V3📡",Showtime 2
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=183161&extension=m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/miPQYy4.png" group-title="📺BACK-UP PH V3📡",Showtime Extreme
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/12036.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/d0Jn9zc.png" group-title="📺BACK-UP PH V3📡",Showtime Family Zone
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/16139.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/cnvJfpA.png" group-title="📺BACK-UP PH V3📡",Showtime Next
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/13008.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/fsHKJkH.png" group-title="📺BACK-UP PH V3📡",Showtime ShowCase
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6306.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Sky_Cinema_Action_DE_Logo_2016.png" group-title="📺BACK-UP PH V3📡",Sky Cinema Action
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=113865&extension=m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Cinema_Animation_Oct_2017.png" group-title="📺BACK-UP PH V3📡",Sky Cinema Animation
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339670&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sky_Cinema_Comedy_-_Logo_2016.svg/2560px-Sky_Cinema_Comedy_-_Logo_2016.svg.png" group-title="📺BACK-UP PH V3📡",Sky Cinema Comedy
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339672&extension=m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/8/86/Sky_Cinema_Drama_%282020-.n.v.%29.png" group-title="📺BACK-UP PH V3📡",Sku Cinema Drama
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=190865&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Sky_Cinema_Family_DE_Logo_2016.png" group-title="📺BACK-UP PH V3📡",Sky Cinema Family
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=12474&extension=m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="📺BACK-UP PH V3📡",Sky Cinema Greats
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1087.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sky_Cinema_Hits_-_Logo_2016.svg/1200px-Sky_Cinema_Hits_-_Logo_2016.svg.png" group-title="📺BACK-UP PH V3📡",Sky Cinema Hits
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=80309&extension=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Sky_Cinema_Thriller_DE_Logo_2020.svg/2560px-Sky_Cinema_Thriller_DE_Logo_2020.svg.png" group-title="📺BACK-UP PH V3📡",Sky Cinema Thriller
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=339674&extension=m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Action
+https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Black Cinema
+https://jmp2.uk/PlutoTV/58af4c093a41ca9d4ecabe96-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Classic Movie Westerns
+https://jmp2.uk/PlutoTV/61f33318210549000806a530-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Classic Movies Channel
+https://jmp2.uk/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61325d18f5166c00081b84e0/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Classic TV: Families
+https://jmp2.uk/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Crime Movies
+https://jmp2.uk/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Cult Films
+https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Drama
+https://jmp2.uk/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Horror
+https://jmp2.uk/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Paramount Movie Channel
+https://jmp2.uk/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Romance
+https://jmp2.uk/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Thrillers
+https://jmp2.uk/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Torror
+https://jmp2.uk/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/0ZZ2hCL.png" group-title="📺BACK-UP PH V3📡",Lotus Macau
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304362.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/GlobalTrekker_remaster.svg/revision/latest/scale-to-width-down/1200?cb=20240114082358" group-title="📺BACK-UP PH V3📡",Global Trekker
+http://178.128.21.207:1234/stream/new/globaltrekker/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png" group-title="📺BACK-UP PH V3📡",AXN
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144898.ts
+#EXTINF:-1 tvg-logo="https://www.hitsnow.tv/assets/hits-now-logo-white.png" group-title="📺BACK-UP PH V3📡",HITS Now
+http://178.128.21.207:1234/stream/new/hitsnow/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://i.imgur.io/fAprFBJ_d.webp" group-title="📺BACK-UP PH V3📡",TechStorm
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298572.ta
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dgp0oef-42e29863-2cbe-4742-b8ca-4c77166c18eb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGdwMG9lZi00MmUyOTg2My0yY2JlLTQ3NDItYjhjYS00Yzc3MTY2YzE4ZWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6TkD38lsulMDXIjtuVnQYKM-TGvpqUWfbuy9FaxEMhs" group-title="📺BACK-UP PH V3📡",Adult t Swim
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/301841.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="📺BACK-UP PH V3📡",Bravo
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2282.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/EJlhdbs.png" group-title="📺BACK-UP PH V3📡",Comedy Central
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/754.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Comedy Central Pluto TV
+https://jmp2.uk/PlutoTV/5ca671f215a62078d2ec0abf-alt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ge1EutY.png" group-title="📺BACK-UP PH V3📡",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1PNGyID.png" group-title="📺BACK-UP PH V3📡",E! !(Entertainment)
+http://starshare.live:8080/live/127718262420/127744325447/158007.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGlCYBq.png" group-title="📺BACK-UP PH V3📡",Game Show Network
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/297323.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkK6NEq3Gj6k9NlN-sYoHC5Z6hA91npiBt35u_h4bK-kPlNAohA0g082Z&s=10" group-title="📺BACK-UP PH V3📡",Game Show Central
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=189802&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zs6lSxN.png" group-title="📺BACK-UP PH V3📡",OWN
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/295053.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/KK0ehXU.png" group-title="📺BACK-UP PH V3📡",TBS
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/295674.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zm2cnzD.png" group-title="📺BACK-UP PH V3📡",TNT
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/769.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIrJDkt.png" group-title="📺BACK-UP PH V3📡",NBC
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2743.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Canal%2B_HD_Polska_logo_2011.png" group-title="📺BACK-UP PH V3📡",Canal+
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=185205&extension=m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f15e32b297f96000768f928/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Classic TV: Comedy
+https://jmp2.uk/PlutoTV/5f15e32b297f96000768f928-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Comedy
+https://jmp2.uk/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8bf1472907815f66a866dd/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Celebrity
+https://jmp2.uk/PlutoTV/5d8bf1472907815f66a866dd-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Fantastic
+https://jmp2.uk/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: More TV Sitcoms
+https://jmp2.uk/PlutoTV/6132619f9ddaa50007e7dd86-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f86f539f03cd00070c503a/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Pranks
+https://jmp2.uk/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Plutp TV: Paramount Picks
+https://jmp2.uk/PlutoTV/5ff8c708653d080007361b14-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: TV Land Sitcoms
+https://jmp2.uk/PlutoTV/5c2d64ffbdf11b71587184b8-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Spotlight
+https://jmp2.uk/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="📺BACK-UP PH V3📡",Pluto TV: Reaction
+https://jmp2.uk/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
+#EXTINF:-1 tvg-logo="https://solarlearning.ph/wp-content/uploads/extender-pro/genesis/images/footer-logo-solar-learning.png" group-title="📺BACK-UP PH V3📡",Solar Learning
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="📺BACK-UP PH V3📡",Knowledge Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299942.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="📺BACK-UP PH V3📡",Animax Planet
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144824.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TEk8rRQ.png" group-title="📺BACK-UP PH V3📡",History
+http://115.146.176.131:80/TimRizal/TimRizal/62.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dN6D18u.png" group-title="📺BACK-UP PH V3📡",History 2
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6310.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="📺BACK-UP PH V3📡",DMAX
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1604.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="📺BACK-UP PH V3📡",CGTN Documentary
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302719.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="📺BACK-UP PH V3📡",Outdoor Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/15075.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="📺BACK-UP PH V3📡",Discovery Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/157597.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" group-title="📺BACK-UP PH V3📡",DiscoveryAsia
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2467c4c5a613ff22e354281aece31b85.png" group-title="📺BACK-UP PH V3📡",Discovery Science
+http://115.146.176.131:80/TimRizal/TimRizal/40.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/duJ1Z0I.png" group-title="📺BACK-UP PH V3📡",Discovery Life
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/201208.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/f7t4MIQ.png" group-title="📺BACK-UP PH V3📡",Discovery History
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/694.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Discovery_History_Plus_1.png" group-title="📺BACK-UP PH V3📡",Discovery History+1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299756.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QfyjIcA.png" group-title="📺BACK-UP PH V3📡",Discovery Turbo
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=183699&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gPIgSXj.png" group-title="📺BACK-UP PH V3📡",Discovery Velocity
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=191859&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHxkGzk.png" group-title="📺BACK-UP PH V3📡",Investigation Discovery
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/8557.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/800px-American_Heroes_Channel_logo.svg.png" group-title="📺BACK-UP PH V3📡",American Heroes Channel
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=154617&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ur7aEYn.png" group-title="📺BACK-UP PH V3📡",Animal Planet East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6329.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scQzS6b.png" group-title="📺BACK-UP PH V3📡",History East
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=184195&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/scQzS6b.png" group-title="📺BACK-UP PH V3📡",History West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/282756.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBFiROM.png" group-title="📺BACK-UP PH V3📡",Discovery Channel East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/23301.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QBFiROM.png" group-title="📺BACK-UP PH V3📡",Discovery Channel West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/708.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cs21UYw.png" group-title="📺BACK-UP PH V3📡",Discovery Science East
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/2301.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cs21UYw.png" group-title="📺BACK-UP PH V3📡",Discovery Science West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/300573.ts
+#EXTINF:-1 tvg-logo="https://imgur.com/dN6D18u.png" group-title="📺BACK-UP PH V3📡",History 2 West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1601.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vKEqKFS.png" group-title="📺BACK-UP PH V3📡",National Geographic
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=191860&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDT3FNj.png" group-title="📺BACK-UP PH V3📡",Nat Geo Wild
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/6503.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4WBLG1.png" group-title="📺BACK-UP PH V3📡",Love Nature
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/302364.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77xyH5z.png" group-title="📺BACK-UP PH V3📡",NASA TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/35586.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1VzUjDC.png" group-title="📺BACK-UP PH V3📡",Real Stones
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h2AEQWZ.png" group-title="📺BACK-UP PH V3📡",Smithsonian Channel
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/8585.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0aMffA.png" group-title="📺BACK-UP PH V3📡",Xplore
+https://jmp2.uk/SamsungTVPlus/ATAJ0500428A.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YUELhUE.png" group-title="📺BACK-UP PH V3📡",Magellan TV Now
+https://jmp2.uk/SamsungTVPlus/CAAJ3400017AE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Ltaei8.png" group-title="📺BACK-UP PH V3📡",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVVax44.png" group-title="📺BACK-UP PH V3📡",ABC Australia
+http://starshare.live:8080/live/127718262420/127744325447/151032.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="📺BACK-UP PH V3📡",ANC
+http://115.146.176.131:80/TimRizal/TimRizal/34.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="📺BACK-UP PH V3📡",ANC Global
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="📺BACK-UP PH V3📡",One PH
+http://115.146.176.131:80/TimRizal/TimRizal/81.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="📺BACK-UP PH V3📡",One News
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/299946.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="📺BACK-UP PH V3📡",TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a2/Super_Radyo_DZBB_White_Logo_2007.png" group-title="📺BACK-UP PH V3📡",Super Radyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1IU5HJ8.png" group-title="📺BACK-UP PH V3📡",CNN International
+http://115.146.176.131:80/TimRizal/TimRizal/15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2r7utRt.png" group-title="📺BACK-UP PH V3📡",Bloomberg
+http://115.146.176.131:80/TimRizal/TimRizal/45.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="📺BACK-UP PH V3📡",France 24
+http://115.146.176.131:80/TimRizal/TimRizal/79.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJvekAr.png" group-title="📺BACK-UP PH V3📡",FOX News International
+http://115.146.176.131:80/TimRizal/TimRizal/7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajBtogD.png" group-title="📺BACK-UP PH V3📡",NHK World Japan
+http://115.146.176.131:80/TimRizal/TimRizal/22.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/f/f6/1920px-CCTV-4_Logo.svg.png" group-title="📺BACK-UP PH V3📡",CCTV 4
+http://starshare.live:8080/live/127718262420/127744325447/150999.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="📺BACK-UP PH V3📡",BBC News
+http://starshare.live:8080/live/127718262420/127744325447/150965.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/2560px-Euronews_2016_logo.svg.png" group-title="📺BACK-UP PH V3📡",Euronews
+http://115.146.176.131:80/TimRizal/TimRizal/58.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TtzvhdV.png" group-title="📺BACK-UP PH V3📡",CBS News
+https://jmp2.uk/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YN7O7aI.png" group-title="📺BACK-UP PH V3📡",Cheddar News
+https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SE4ZoBV.png" group-title="📺BACK-UP PH V3📡",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yd1C0VX.png" group-title="📺BACK-UP PH V3📡",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KkaimXA.png" group-title="📺BACK-UP PH V3📡",Metro Channel
+https://www.dropbox.com/s/dl/douazcw7trku1ig/NoSignal.mp4
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/foodnetwork.png" group-title="📺BACK-UP PH V3📡",Food Network
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/144857.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="📺BACK-UP PH V3📡",Lifetime
+http://starshare.live:8080/live/127718262420/127744325447/143113.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KeM5KlR.png" group-title="📺BACK-UP PH V3📡",Crime + Investigation
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165052.ts
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="📺BACK-UP PH V3📡",TLC
+http://115.146.176.131:80/TimRizal/TimRizal/83.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1200px-BBC_Lifestyle2.svg.png" group-title="📺BACK-UP PH V3📡",BBC Lifestyle
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/264747.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="📺BACK-UP PH V3📡",HGTV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298535.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6E6mVg.png" group-title="📺BACK-UP PH V3📡",HGTV +1
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/173253.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="📺BACK-UP PH V3📡",Travel Channel
+http://starshare.live:8080/live/127718262420/127744325447/151086.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="📺BACK-UP PH V3📡",Fashion TV
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/304247.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xF0bNt.png" group-title="📺BACK-UP PH V3📡",Food Network East
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=36645&extension=ts&play_token=DFpNtNmwu5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xF0bNt.png" group-title="📺BACK-UP PH V3📡",Food Network Wrst
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/4658.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tO7wYBL.png" group-title="📺BACK-UP PH V3📡",Crime + Investigation East
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=154978&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6E6mVg.png" group-title="📺BACK-UP PH V3📡",HGTG East
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=183721&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6E6mVg.png" group-title="📺BACK-UP PH V3📡",HGTV West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1600.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/2560px-Travel_Channel_-_Logo.svg.png" group-title="📺BACK-UP PH V3📡",Travel Channel East
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=154203&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NG8hVoI.png" group-title="📺BACK-UP PH V3📡",Gusto TV
+https://jmp2.uk/SamsungTVPlus/USAK3508724A.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gmWjd4v.png" group-title="📺BACK-UP PH V3📡",Vice
+https://jmp2.uk/SamsungTVPlus/USBB1900006NY.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R2tw8RW.pnghttps://i.imgur.com/R2tw8RW.png" group-title="📺BACK-UP PH V3📡",TLC EastTLC West
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1067.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="📺BACK-UP PH V3📡",KBS World
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567724.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-title="📺BACK-UP PH V3📡",K-Plus
+http://starshare.live:8080/live/127718262420/127744325447/142998.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="📺BACK-UP PH V3📡",KIX
+http://starshare.live:8080/live/127718262420/127744325447/150986.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/1NC5v9.png" group-title="📺BACK-UP PH V3📡",ONE
+http://starshare.live:8080/live/127718262420/127744325447/143127.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="📺BACK-UP PH V3📡",GEM
+http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=Stewpead&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="📺BACK-UP PH V3📡",tvN Premium HD
+http://starshare.live:8080/live/127718262420/127744325447/151002.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="📺BACK-UP PH V3📡",tvN Movies
+http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/297499.ts
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Nippon tv
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS TBs
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS TV Tokyo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Buko
 http://trickflix1.duckdns.org:1234/stream/trickflix/buko/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Channel Ginga
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Cinema One global
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",CINEMO Global
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",DISCOVERY SCIENCE
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",DreamWorks pinoy
 http://trickflix1.duckdns.org:1234/stream/trickflix/dreamworkstagalized/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",E T W N
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Family Gekijo
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",FASHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Fishing Vision
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",FITE
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fite247_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",FREE CLASSIC MOVIES
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/free-classic-movies/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Fuji TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Fuji TV NEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Gaora Sports
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA Life
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA News
 http://user.scalecdn.co:8080/live/262301/262301/4523.ts
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA Pinoy
 http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",GMA7
 http://115.146.176.131/live/TimRizal/TimRizal/14.ts
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Golf Network
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Green Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HBO
 http://user.scalecdn.co:8080/live/262301/262301/2491.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HBO Signature
 http://user.scalecdn.co:8080/live/262301/262301/648981.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HBO Zone
 http://abcnew.site:8880/D12m2496/22936653/3120
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",HITS MOVIES
 http://115.146.176.131:80/TimRizal/TimRizal/36.ts
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Home Drama Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",IMPACT Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",J Sports 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",J Sports 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-
 #EXTINF:-1  tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",J Sports 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Japan B- league
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Jidaigeki Senmon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Kansai TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Kayo Pops
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Korean MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",LaLa TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Mondo TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",Moviezone
 https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",MPTV
 http://trickflix1.duckdns.org:1234/stream/trickflix/mptv/master.m3u8?u=sacha&p=902e9ba4e441abb949125d932e35af6a107179664731730907fb85eb859c8439
 
