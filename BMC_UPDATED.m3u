@@ -938,6 +938,158 @@ http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=Stewpead&p=03ac67
 http://starshare.live:8080/live/127718262420/127744325447/151002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="📺BACK-UP PH V3📡",tvN Movies
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/297499.ts
+
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/da66dea49c256c9482db9c0dc4c1605a.png" group-title="📺BACK-UP PH V4📡",ALJAZEERA
+http://115.146.176.131:80/TimRizal/TimRizal/4.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/d23fe108561a855805e247896ae4b9a6.png" group-title="📺BACK-UP PH V4📡",FOX NEWS
+http://115.146.176.131:80/TimRizal/TimRizal/7.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/14a646307c92e88856903295e6fa0d5c.png" group-title="📺BACK-UP PH V4📡",ARIRANG KOREA
+http://115.146.176.131:80/TimRizal/TimRizal/8.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/901a4189fefa7d9e90356245ccffe210.png" group-title="📺BACK-UP PH V4📡",PTV
+http://115.146.176.131:80/TimRizal/TimRizal/10.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/5a15a1b0859db5f2f5d265cdf416ed74.png" group-title="📺BACK-UP PH V4📡",THRILL
+http://115.146.176.131:80/TimRizal/TimRizal/13.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/5f1db429d73eb0356f4226597ee78d9b.png" group-title="📺BACK-UP PH V4📡",GMA
+http://115.146.176.131:80/TimRizal/TimRizal/14.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="📺BACK-UP PH V4📡",CNN
+http://115.146.176.131:80/TimRizal/TimRizal/15.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/9498f877daeee2e1bec6b0042709fab4.png" group-title="📺BACK-UP PH V4📡",ABS-CBN
+http://115.146.176.131:80/TimRizal/TimRizal/16.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/fc6c942231e65025dcdefec564953a8e.png" group-title="📺BACK-UP PH V4📡",NICK JR
+http://115.146.176.131:80/TimRizal/TimRizal/17.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/35df06ff3b98a40216b084aae4d9622f.jpg" group-title="📺BACK-UP PH V4📡",SMNI
+http://115.146.176.131:80/TimRizal/TimRizal/19.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/42f77059807803cd80390f9e894e6781.jpg" group-title="📺BACK-UP PH V4📡",EWTN
+http://115.146.176.131:80/TimRizal/TimRizal/20.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/243b3874b2663358c860672528bdf03d.png" group-title="📺BACK-UP PH V4📡",HBO HD
+http://115.146.176.131:80/TimRizal/TimRizal/21.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/12fa6aaab4224fafc61e4ed46956f84f.jpg" group-title="📺BACK-UP PH V4📡",NHK WORLD
+http://115.146.176.131:80/TimRizal/TimRizal/22.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/f304946a477d3253bbfb865e6adb3c9f.png" group-title="📺BACK-UP PH V4📡",ONE SPORTS
+http://115.146.176.131:80/TimRizal/TimRizal/23.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/ccf1e265a9c837d77dd9fd83286a0ba1.jpg" group-title="📺BACK-UP PH V4📡",DZRH
+http://115.146.176.131:80/TimRizal/TimRizal/24.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/1e51dc61932fbd01bea3e1a960179f76.jpg" group-title="📺BACK-UP PH V4📡",DISCOVERY CHANNEL
+http://115.146.176.131:80/TimRizal/TimRizal/27.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/585f2558eba80626c96e88f59db0c79d.png" group-title="📺BACK-UP PH V4📡",TRACE SPORT STAR
+http://115.146.176.131:80/TimRizal/TimRizal/29.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/d09c202159d32e4b2c8574185469e03b.jpg" group-title="📺BACK-UP PH V4📡",CINEMAONE
+http://115.146.176.131:80/TimRizal/TimRizal/31.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/91ead07b36d35d691c26714fecc1923a.png" group-title="📺BACK-UP PH V4📡",PBO
+http://115.146.176.131:80/TimRizal/TimRizal/32.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/917b2c19e2abf641b4d7675af3101bfb.jpeg" group-title="📺BACK-UP PH V4📡",CNN PHIL
+http://115.146.176.131:80/TimRizal/TimRizal/33.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/402c2bd50e209f07954140bfa2162c33.png" group-title="📺BACK-UP PH V4📡",ANC
+http://115.146.176.131:80/TimRizal/TimRizal/34.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/c9b63fa4ded0d7d265e56c96a2038d0b.png" group-title="📺BACK-UP PH V4📡",GMA NEWS TV
+http://115.146.176.131:80/TimRizal/TimRizal/35.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/6c374acf0ca2b976bbaa32f5483449bd.png" group-title="📺BACK-UP PH V4📡",HITS MOVIES
+http://115.146.176.131:80/TimRizal/TimRizal/36.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/0436a4f0cc263fa6b33ac3e6fa1084f3.png" group-title="📺BACK-UP PH V4📡",UNTV
+http://115.146.176.131:80/TimRizal/TimRizal/38.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/a99e9f049d1eebd2b3117ae9dbac1ada.png" group-title="📺BACK-UP PH V4📡",LIGHT NETWORK
+http://115.146.176.131:80/TimRizal/TimRizal/39.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/2467c4c5a613ff22e354281aece31b85.png" group-title="📺BACK-UP PH V4📡",DISCOVERY SCIENCE
+http://115.146.176.131:80/TimRizal/TimRizal/40.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/ae139f8c21f0470a268c8b7abaec791b.png" group-title="📺BACK-UP PH V4📡",CINEMAX
+http://115.146.176.131:80/TimRizal/TimRizal/41.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7d9223f061a3128998cdf84c5be3c77c.png" group-title="📺BACK-UP PH V4📡",FASHION TV
+http://115.146.176.131:80/TimRizal/TimRizal/42.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/82c24c56be2bd48ed70c484a144de450.jpg" group-title="📺BACK-UP PH V4📡",CELESTIAL MOVIES
+http://115.146.176.131:80/TimRizal/TimRizal/43.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/cfe8e6624636192cb2e22547d0ed84db.png" group-title="📺BACK-UP PH V4📡",BOOMERANG
+http://115.146.176.131:80/TimRizal/TimRizal/46.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/ba522f5b7c3d592de454b1afad3f718a.png" group-title="📺BACK-UP PH V4📡",IBC 13
+http://115.146.176.131:80/TimRizal/TimRizal/47.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/c0503bfc0ee57562777d53c6891d801e.png" group-title="📺BACK-UP PH V4📡",LIFETIME
+http://115.146.176.131:80/TimRizal/TimRizal/48.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7322e4e74e109cf689b50f143663abaa.jpg" group-title="📺BACK-UP PH V4📡",AXN
+http://115.146.176.131:80/TimRizal/TimRizal/49.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/9708296a4ad6365d43c8cee0fd689261.png" group-title="📺BACK-UP PH V4📡",CARTOON NETWORK
+http://115.146.176.131:80/TimRizal/TimRizal/54.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/e3a30b89f9baa219bc58265ddafa38cb.png" group-title="📺BACK-UP PH V4📡",BABY TV
+http://115.146.176.131:80/TimRizal/TimRizal/55.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/f215f7932a97b5a8996cab931a7f7476.jpg" group-title="📺BACK-UP PH V4📡",PREMIER SPORTS
+http://115.146.176.131:80/TimRizal/TimRizal/57.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/5a4c8aa22146a7691717bd77782d5a36.jpg" group-title="📺BACK-UP PH V4📡",ANIMAX
+http://115.146.176.131:80/TimRizal/TimRizal/59.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/c18c2cf906dd0b1da4d9f275ba4c43f2.png" group-title="📺BACK-UP PH V4📡",HISTORY
+http://115.146.176.131:80/TimRizal/TimRizal/62.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/c765aa00386fb22e1bd8725fcfae8e35.png" group-title="📺BACK-UP PH V4📡",CI
+http://115.146.176.131:80/TimRizal/TimRizal/63.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/74dcf46b6d2f5c5738b3409b3505be6e.jpg" group-title="📺BACK-UP PH V4📡",FIGHT SPORTS
+http://115.146.176.131:80/TimRizal/TimRizal/65.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/7a8eef9f7d952baa12e27a144485093e.png" group-title="📺BACK-UP PH V4📡",MYX
+http://115.146.176.131:80/TimRizal/TimRizal/66.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/1e22ec95a93860200a7b49dac1a45b3d.png" group-title="📺BACK-UP PH V4📡",A2Z
+http://115.146.176.131:80/TimRizal/TimRizal/68.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/8e9e132a0adfe658b3be87f166ff327e.jpg" group-title="📺BACK-UP PH V4📡",PBA RUSH
+http://115.146.176.131:80/TimRizal/TimRizal/69.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/9c988d31d5f991538071e9bcd86ee48f.png" group-title="📺BACK-UP PH V4📡",OUTDOOR
+http://115.146.176.131:80/TimRizal/TimRizal/79.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/9eb5d74ad97a036891e3bfca7b171118.jpg" group-title="📺BACK-UP PH V4📡",ONE PH
+http://115.146.176.131:80/TimRizal/TimRizal/81.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/d23319e1a0df64ec2384acdd7de1ceae.png" group-title="📺BACK-UP PH V4📡",TLC
+http://115.146.176.131:80/TimRizal/TimRizal/83.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/245d6e0b0f1937c01a13e56bf6b461bb.png" group-title="📺BACK-UP PH V4📡",HBO FAMILY HD
+http://115.146.176.131:80/TimRizal/TimRizal/85.ts
+#EXTINF:-1 tvg-logo="https://smartxtreamtv.uk:443/images/a51aa364e25a7eef5ec885c6fcd5cf63.png" group-title="📺BACK-UP PH V4📡",WARNER TV HD
+http://115.146.176.131:80/TimRizal/TimRizal/86.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/a9ff7a33ed0f05356304efb5fee20731.png" group-title="📺BACK-UP PH V4📡",KAPAMILYA
+http://115.146.176.131:80/TimRizal/TimRizal/89.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/0f343f8f4eab0b339428505f308fe4b2.png" group-title="📺BACK-UP PH V4📡",TV 5
+http://115.146.176.131:80/TimRizal/TimRizal/90.ts
+#EXTINF:-1 tvg-logo="http://115.146.176.131:80/images/504688d3aa45afc143afdbce685e6e1e.png" group-title="📺BACK-UP PH V4📡",NBA TV
+http://115.146.176.131:80/TimRizal/TimRizal/97.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",CNA
+http://115.146.176.131:80/TimRizal/TimRizal/5.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",INCTV
+http://115.146.176.131:80/TimRizal/TimRizal/6.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ISLAND LIVING
+http://115.146.176.131:80/TimRizal/TimRizal/9.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",K-CH
+http://115.146.176.131:80/TimRizal/TimRizal/11.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",HOPE TV
+http://115.146.176.131:80/TimRizal/TimRizal/18.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",TELERADYO
+http://115.146.176.131:80/TimRizal/TimRizal/25.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ZOOMOO
+http://115.146.176.131:80/TimRizal/TimRizal/28.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",LUTOS MACAU
+http://115.146.176.131:80/TimRizal/TimRizal/30.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",PINOY EXTREME
+http://115.146.176.131:80/TimRizal/TimRizal/37.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",RJ TV
+http://115.146.176.131:80/TimRizal/TimRizal/44.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",BLOOMBERG
+http://115.146.176.131:80/TimRizal/TimRizal/45.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SCREAMFLIX
+http://115.146.176.131:80/TimRizal/TimRizal/50.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SHOFAR
+http://115.146.176.131:80/TimRizal/TimRizal/51.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",STAR CHINESE MOVIES
+http://115.146.176.131:80/TimRizal/TimRizal/52.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ROCK EXTREAME
+http://115.146.176.131:80/TimRizal/TimRizal/53.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SOLAR LEARNING
+http://115.146.176.131:80/TimRizal/TimRizal/56.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",EURONEWS
+http://115.146.176.131:80/TimRizal/TimRizal/58.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",ALLTV
+http://115.146.176.131:80/TimRizal/TimRizal/60.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",JEEPNEY TV
+http://115.146.176.131:80/TimRizal/TimRizal/64.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",MY CINEMA EUROPE
+http://115.146.176.131:80/TimRizal/TimRizal/67.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",KARAOKE
+http://115.146.176.131:80/TimRizal/TimRizal/70.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",SOLAR SPORTS
+http://115.146.176.131:80/TimRizal/TimRizal/80.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",GEM
+http://115.146.176.131:80/TimRizal/TimRizal/82.ts
+#EXTINF:-1 tvg-logo="" group-title="📺BACK-UP PH V4📡",ph live",EMTV
+http://115.146.176.131:80/TimRizal/TimRizal/84.ts
+
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS Nippon tv
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 #EXTINF:-1 tvg-logo="https://imgur.com/4lFTKvR.jpg" group-title="📺LOCAL PH & MIX CHANNEL📡🇵🇭",BS TBs
