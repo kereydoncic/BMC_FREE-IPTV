@@ -3193,6 +3193,482 @@ http://178.128.21.207:1234/stream/new/rockaction/master.m3u8?u=Stewpead&p=03ac67
 http://starshare.live:8080/live/127718262420/127744325447/151002.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="tvN Movies" tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="📺BACK-UP PH V3📡",tvN Movies
 http://iptvtree.net:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/297499.ts
+
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",HEART OF ASIA
+http://vstream.vip/live/0A231A38A3B9781FF623800E2D3B24EC/151
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",ONE SPORTS +
+https://tinyurl.com/SPORTplu
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",NBA TV
+https://fl5.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",MYX Philippines
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="📺BMC UNLI BACKUP📺📡",DZRHNewsTV
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T3jDOEq.png" group-title="📺BMC UNLI BACKUP📺📡",PTV 4 not 24/7
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="📺BMC UNLI BACKUP📺📡",Super Radyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png" group-title="📺BMC UNLI BACKUP📺📡",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
+#EXTINF:-1 tvg-logo="https://www.asiancrush.com/images/asiancrush/asiancrush_logo_image.png" group-title="📺BMC UNLI BACKUP📺📡",Asian Crush
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",TeleRadyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="📺BMC UNLI BACKUP📺📡",MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png" group-title="📺BMC UNLI BACKUP📺📡",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Disney channel
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",CARTOON NETWORK
+https://bit.ly/mikeph-cartoonnetwork?.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",CARTOON NETWORK INDIA
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png" group-title="📺BMC UNLI BACKUP📺📡",Cartoon Network Japan
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",GOSPEL CARTOON
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",HBO HD (limited)
+http://125.227.210.55:8153/VideoInput/play.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eWLAxaI.png" group-title="📺BMC UNLI BACKUP📺📡",HBO Xtreme
+http://168.181.122.234:8000/play/a02s
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yOEtOr5.png" group-title="📺BMC UNLI BACKUP📺📡",HBO2
+http://168.181.122.234:8000/play/a02p
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OspRTI.png" group-title="📺BMC UNLI BACKUP📺📡",HBO3
+http://185.236.229.62:9981/play/a062
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="📺BMC UNLI BACKUP📺📡",Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png" group-title="📺BMC UNLI BACKUP📺📡",SONY Movies
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="📺BMC UNLI BACKUP📺📡",MYTIME MOVIE
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/32045cf9-3031-4b1e-bb31-dc1447274b2e.png" group-title="📺BMC UNLI BACKUP📺📡",Rakuten TV (Family)
+https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463.png" group-title="📺BMC UNLI BACKUP📺📡",Rakuten TV (Action Movies)
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/72720827-544c-4599-bf8e-ade66d6bc9be-top-movies-rakutentv-1621956630.png" group-title="📺BMC UNLI BACKUP📺📡",Rakuten TV (Top Free)
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQzfEFj.png" group-title="📺BMC UNLI BACKUP📺📡",BIZZARRO MOVIE
+https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="📺BMC UNLI BACKUP📺📡",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="📺BMC UNLI BACKUP📺📡",American Horrors (480p)
+https://amhorstream.com/playlist/amhor/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",SMNI PH
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",SARI SARI PH
+http://1tv41.icu:8080/n9UaTQ/546727/101824
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="📺BMC UNLI BACKUP📺📡",CLTV 36 PH
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/800px-INCTV_Logo_With_Shadow.webp.png" group-title="📺BMC UNLI BACKUP📺📡",INCTV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",CGTV
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="📺BMC UNLI BACKUP📺📡",NET 25
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ls57t52j/TV5-Monde-Style-2023.png" group-title="📺BMC UNLI BACKUP📺📡",TV5 MONDE Style
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXW5pHwc/aj.png" group-title="📺BMC UNLI BACKUP📺📡",ALJAZEERA
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/2560px-KBS_World_%282009%29.svg.png" group-title="📺BMC UNLI BACKUP📺📡",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="📺BMC UNLI BACKUP📺📡",Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logonoid.com/images/hgtv-logo.png" group-title="📺BMC UNLI BACKUP📺📡",HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/600px-Radyo5truefmlogo.webp.png" group-title="📺BMC UNLI BACKUP📺📡",True FM
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="📺BMC UNLI BACKUP📺📡",BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c0DNwg2/tv5monde.png" group-title="📺BMC UNLI BACKUP📺📡",TV5 MONDE Asie
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-logo-black-and-white.png" group-title="📺BMC UNLI BACKUP📺📡",AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="📺BMC UNLI BACKUP📺📡",CGTN News
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png" group-title="📺BMC UNLI BACKUP📺📡",CGTN Documentaries
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",France 24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="📺BMC UNLI BACKUP📺📡",Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="📺BMC UNLI BACKUP📺📡",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/2560px-2019_Discovery_logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Discovery HD
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Discovery Science
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",TLC
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/640px-Discovery_Turbo.png" group-title="📺BMC UNLI BACKUP📺📡",Discovery Turbo
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/831-8310067_bindi-the-otters-new-animal-planet-logo.png" group-title="📺BMC UNLI BACKUP📺📡",Animal Planet
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/ID_INVESTIGATION_DISCOVERY.png/538px-ID_INVESTIGATION_DISCOVERY.png" group-title="📺BMC UNLI BACKUP📺📡",Investigation Discovery
+https://dplus.gammacdn.workers.dev/videos/101.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Dmax_tv-channel.png" group-title="📺BMC UNLI BACKUP📺📡",DMAX
+https://dplus.gammacdn.workers.dev/videos/109.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Baywatch-logo.svg/1280px-Baywatch-logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Baywatch
+https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="📺BMC UNLI BACKUP📺📡",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="📺BMC UNLI BACKUP📺📡",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="📺BMC UNLI BACKUP📺📡",Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/bbc/images/a/aa/BBC_Food_%28Pluto_TV%29.png" group-title="📺BMC UNLI BACKUP📺📡",BBC Food
+https://d386m2lmbakvx4.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/american-pickers-logo-A03D6DF65E-seeklogo.com.png" group-title="📺BMC UNLI BACKUP📺📡",American Pickers
+https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/America%27s_Got_Talent_2015_logo.png/1200px-America%27s_Got_Talent_2015_logo.png" group-title="📺BMC UNLI BACKUP📺📡",America's Got Talent
+https://dhkq1p9audihq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="📺BMC UNLI BACKUP📺📡",AFV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/American_Idol_logo.svg/1280px-American_Idol_logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",American Idol
+https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_orig.png" group-title="📺BMC UNLI BACKUP📺📡",Action!!!
+https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="📺BMC UNLI BACKUP📺📡",24 Hour Free Movies
+https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Redbox_logo_2017.svg/2560px-Redbox_logo_2017.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",WWE NEED FAST NET
+http://jmrk.xyz:3050/live/elonza_joyner@yahoo.com/gmJ2dxUykT/601456.m3u8
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",NBA TV TEST2
+http://1tv41.icu:8080/n9UaTQ/546727/22995
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",NBA TV TEST3
+http://1tv41.icu:8080/n9UaTQ/546727/20073
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV As Pistas de Blue (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Cine Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Cine Família (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Filmes Suspense (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Investigação (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV MTV (Brazil) (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Natureza (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Nick Jr. Club (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Porta dos Fundos (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Retrô (684p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Vida Real (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Pluto TV Classic Nick (Brazil) (240p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyfu3qP.png" group-title="📺BMC UNLI BACKUP📺📡",Retrô Cartoon (480p)
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9IVsFXz.png" group-title="📺BMC UNLI BACKUP📺📡",ANN News
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuGepQp.jpg" group-title="📺BMC UNLI BACKUP📺📡",Asahi Shimbun Digital
+https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSNc0jP.png" group-title="📺BMC UNLI BACKUP📺📡",Chukyo TV News
+https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RfrkGrd.png" group-title="📺BMC UNLI BACKUP📺📡",MBS TV (MBSテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/1920px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",ABC TV (ABCテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/1920px-Ktv_logo.svg.png" group-title="📺BMC UNLI BACKUP📺📡",Kansai TV (カンテレ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ONbuWvo.png" group-title="📺BMC UNLI BACKUP📺📡",Yomiuri TV (読売テレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rUmrruq.png" group-title="📺BMC UNLI BACKUP📺📡",TV Osaka (テレビ大阪) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="📺BMC UNLI BACKUP📺📡",Sun TV (サンテレビ) Ⓢ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="📺BMC UNLI BACKUP📺📡",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="📺BMC UNLI BACKUP📺📡",BS Nippon TV (BS日テレ)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF:-1 tvg-logo="https://i.imgur.com/huXFL3A.png" group-title="📺BMC UNLI BACKUP📺📡",BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="📺BMC UNLI BACKUP📺📡",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="📺BMC UNLI BACKUP📺📡",BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="📺BMC UNLI BACKUP📺📡",BS Fuji TV (BSフジテレビ)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="📺BMC UNLI BACKUP📺📡",INC TV (720p) (720p) [Geo-blocked]
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",13Max Televisión (1080p)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aoq9CGU.png" group-title="📺BMC UNLI BACKUP📺📡",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="📺BMC UNLI BACKUP📺📡",ABC 16 Wilkes Barre PA (WNEP) (1080p)
+https://livevideo.tegnadigital.com/wnep/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WNEP/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3dK1ocU.png" group-title="📺BMC UNLI BACKUP📺📡",ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Canal de l'Assemblee
+https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vfdN5Xl.png" group-title="📺BMC UNLI BACKUP📺📡",Always Funny Videos (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/alwaysfunny_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Canada one
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnp02.png" group-title="📺BMC UNLI BACKUP📺📡",TVN Brasil
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="📺BMC UNLI BACKUP📺📡",TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Black News Channel (1080p)
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Cable 14 hamilton
+https://ythls.armelin.one/channel/UCtj2xA6lW9BPE4BxnhxQQkw.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSYez3V.png" group-title="📺BMC UNLI BACKUP📺📡",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="📺BMC UNLI BACKUP📺📡",CCTV-4 America (1080p)
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="📺BMC UNLI BACKUP📺📡",TVN (1080p)
+https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token&checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qOO32m6.png" group-title="📺BMC UNLI BACKUP📺📡",NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J1w8bAW.png" group-title="📺BMC UNLI BACKUP📺📡",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4rlHUt.png" group-title="📺BMC UNLI BACKUP📺📡",TVNET
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/12-kanal-ru.png" group-title="📺BMC BACKUP CHANNEL📺📡",12 KANAL
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/3abn_kids_us.png" group-title="📺BMC BACKUP CHANNEL📺📡",3ABN KIDS NETWORK
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE4_KmYghUKPbflKPQ-y_0hSom6Peuz8ExHQ&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",51 RADIO TV
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/9x_music.png" group-title="📺BMC BACKUP CHANNEL📺📡",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/2bca9209d6f475624bf5ae5678bdfbed-520x293.jpeg" group-title="📺BMC BACKUP CHANNEL📺📡",ABN BIBLE MOVIES
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/anc-ph.png" group-title="📺BMC BACKUP CHANNEL📺📡",ABS-CBN NEWS CHANNEL
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/acc-network-us.png" group-title="📺BMC BACKUP CHANNEL📺📡",ACC NETWORK
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4317.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1zW8RLLNCQm6UHcIIJZlscOB5vhs7BF2I7SfTthYGv3LtHeRSut2-Ag&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",ACTION HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="📺BMC BACKUP CHANNEL📺📡",AL JAZEERA ENGLISH
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6xIHJk4OPm5dwf0orgSAWEa3bgZ49IJ7YLQvkkoSpAtDAUoLy" group-title="📺BMC BACKUP CHANNEL📺📡",ANIMAL PLANET HD
+https://dplus.gammacdn.workers.dev/videos/99.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2udZCLuNeskAT5pSOMqtfcP1Lug1FAs7GcN37ImWPK3mcjPrbd50OT-E&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",ARIRANG KOREA
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiEgqZLP8TwPy6dcXADKTLQRJXgHEjGfLIhw&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",ASIAN CRUSH
+https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/ava-family-iq.png" group-title="📺BMC BACKUP CHANNEL📺📡",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPpyH9FJC_akx-OfUAFhfK5vE9F8MRI2biQ&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",BABY SHARK TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5f24290fd0d0910ecab2b02e/1623649793412-5EZHW2J135YSBAWAACSQ/Untitled+presentation+%2817%29.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",BBC NEWS
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQ7mpig7mzDorJP3kLpOCIxVVwL7FqQ8D8JKqdjQVBU6b6nuhQJ0wiE0&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",BLOOMBERG
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/cde825f0-1e4e-11ee-b209-cb1999120419/4976980/879651857.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv059urG-wuVNO3V_EBA1YVOFBH0Odo_ffLA&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",BRAT TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaW4n51StRKcE199Sswlqo8qon3B3_zqsWFQ&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",C31 MELBOURNE
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwyR3aQpZI1vXrL8a-RpyLstqGCi_HM9PuwJqSV4RJ8xgmQy82gC1QZP2G&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",CARTOON NETWORK
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShn2wn6Gh_mJrJ6P3sLbHB2bdgKgksZu3bl4ZJLTeND242uQwT" group-title="📺BMC BACKUP CHANNEL📺📡",CARTOONITO
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROs7yDnjvI4GOD9YmxOOZitLXeZdSaXiOtOw&s" group-title="📺BMC BACKUP CHANNEL📺📡",CCTN 47
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="📺BMC BACKUP CHANNEL📺📡",CELESTIAL MOVIES
+http://210.210.155.35/uq2663/h/h14/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png" group-title="📺BMC BACKUP CHANNEL📺📡",CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn_documentary.png" group-title="📺BMC BACKUP CHANNEL📺📡",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/CNA.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",CHANNEL NEWS ASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwPET0HOkhXuXkMHpSChqc9ZYUb9tZoaUr1Q&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",CHARGE!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_one_ph.png" group-title="📺BMC BACKUP CHANNEL📺📡",CINEMA ONE
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBvEuXUALhVeJvQighWuLc0dbLjoc8P31Wzg&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",CINEMO!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDiq0M5khP6WdMzB0pJG8N47ycIZXwVeeWIQ&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",CLOUDFARE TV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ZIpA1bQouVMA-IoB2yMJhFHRVjRSDuNWfA&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",CMC (CALIFORNIA MUSIC CHANNEL)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-nzd3Ye2JIAqAYDo0pynVDbNg052KJ5oIw&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",CRACKLE TV
+https://crackle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da_ai_tv_tw.png" group-title="📺BMC BACKUP CHANNEL📺📡",DA AI 1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da_ai_tv_tw_2.png" group-title="📺BMC BACKUP CHANNEL📺📡",DA AI 2
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_asia_us.png" group-title="📺BMC BACKUP CHANNEL📺📡",DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTu4jmbMj85Ste8_sTMqGD9x7E1936YvTew&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",DISCOVERY HD
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTthOFIaToJiD6ElX5l-UshzPnDeLqNt37ALgSlmuvb76FeQR3t" group-title="📺BMC BACKUP CHANNEL📺📡",DISCOVERY SCIENCE
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxYRlWBm_1bLgEomRSsMuSXcYhA2bSHzzu2LznT2TaSlu7tXp_ZJ2zvY&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",DISCOVERY TURBO
+https://dplus.gammacdn.workers.dev/videos/98.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/231px-DMax_Espa%C3%B1a.svg.png" group-title="📺BMC BACKUP CHANNEL📺📡",DMAX
+https://dplus.gammacdn.workers.dev/videos/109.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTb7xyno3bu9Bhw4y-UpuamKYFGud4qq5bUADFzWBh28l_sJ0AY" group-title="📺BMC BACKUP CHANNEL📺📡",DOUYU MOVIES
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/deutsche_welle_tv_de.png" group-title="📺BMC BACKUP CHANNEL📺📡",DW ENGLISH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ9XB1NehPQ9Tn6ngNRif6Vxw1QGstrekl3g&s" group-title="📺BMC BACKUP CHANNEL📺📡",FASHION TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/fight_tv_512X512_balck.png" group-title="📺BMC BACKUP CHANNEL📺📡",FIGHT TV
+https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_asia.png" group-title="📺BMC BACKUP CHANNEL📺📡",FOOD NETWORK
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="📺BMC BACKUP CHANNEL📺📡",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxVpMqyrRfrQIw6b40c7tqSPYVoXytuSLBA&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",FREE CLASSIC MOVIES
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/free-classic-movies/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuse_east.png" group-title="📺BMC BACKUP CHANNEL📺📡",FUSE
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/1928.ts
+#EXTINF:-1 tvg-logo="https://i.vimeocdn.com/portrait/27552130_640x640" group-title="📺BMC BACKUP CHANNEL📺📡",GAME SHOW NETWORK
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqV2PiBz7LFzzT3AedFKyieuqKOJIOO2m9iZ9ofNqX5D65gs6Ynfwg98&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlaCTXry4iri1eCIVgCvNRu5Avfx3rczs65g&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",GREAT COMMISION TV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKZXtkQb3-DUiSsubr95bs2rGF5dotJZnvIMQ9aSZeNfmDlzLm6sq6Jk&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",GUSTO TV
+https://amg01077-gustoworldwidem-gustotv-cineverse-h7u1r.amagi.tv/playlist/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66JaclFA9-dogbj7Yr0ItRuFrahP4kH-Kng&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",HALLMARK CHANNEL
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1 tvg-logo="https://hallmark.brightspotcdn.com/dims4/default/8ed6cca/2147483647/strip/true/crop/850x478+0+81/resize/1200x675!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2Fd0%2Fc0%2Fde5fbb244c6c8f5e1e4cf929976e%2Fhf-placeholder-2024.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",HALLMARK FAMILY
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1 tvg-logo="https://hallmark.brightspotcdn.com/dims4/default/b0a96a5/2147483647/strip/true/crop/850x478+0+81/resize/1200x675!/quality/90/?url=http%3A%2F%2Fhallmark-channel-brightspot.s3.amazonaws.com%2F8e%2Fc6%2Fad8a9288493691992b7787d57a54%2Fhm-placeholder-2024.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",HALLMARK MYSTERY
+https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6pX1cwMRvk84B9bprVAguwdseroOuWqQGzy8hu79F-YSQOM5i" group-title="📺BMC BACKUP CHANNEL📺📡",HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOabwOAPNMKuoOQqGUOaPogPqvVJmkZVg8haxKnnQAbul0qODL" group-title="📺BMC BACKUP CHANNEL📺📡",HOPE TV
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/e9a0f1b659e4a6052fa798846914a4f7/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/horrortv_512X512_balck.png" group-title="📺BMC BACKUP CHANNEL📺📡",HORROR TV
+https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/82/c8/4d/82c84d0d-a2a1-2df8-ee23-da091ed671c6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/256x256bb.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",INC TV
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/india_today_in_tv.png" group-title="📺BMC BACKUP CHANNEL📺📡",INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TMeNpGCPr2qcRynLSStj2lcIZxJWBVKAtRZSYWaiw6drMdWNNh_JOTas&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",INVESTIGATION DISCOVERY HD
+https://dplus.gammacdn.workers.dev/videos/101.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",K-PLUS
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpjBhMsB4knbdFXulz8N94jB6xFc5feoAjOljCeQDze2wvrWegUA4wX2BL&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",KARTOON CHANNEL
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" group-title="📺BMC BACKUP CHANNEL📺📡",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="📺BMC BACKUP CHANNEL📺📡",KIX
+http://210.210.155.35/uq2663/h/h07/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png" group-title="📺BMC BACKUP CHANNEL📺📡",LOTUS MACAU
+https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/motorvisionplus-de.png" group-title="📺BMC BACKUP CHANNEL📺📡",MOTOR VISION PLUS
+http://210.210.155.35/uq2663/h/h09/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFK8xVyceD0ATAXAgjrfoyRYLy6yYnGVG2WHtpm0gv4rQZrsv-" group-title="📺BMC BACKUP CHANNEL📺📡",MOVIE BOX
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RvYRtgx9OYVYi9BjvQMAxvnoyar8iulXGY6xW1e6SImKEhDR-qzqlMDa&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",MOVIE SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-live-us.svg" group-title="📺BMC BACKUP CHANNEL📺📡",MTV LIVE
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3362.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmsyHYR_3WVOi5kOOoakdQC8ws5gHym2EaM9Y3VGHFSJbf6-yTWXCDxV0X&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",MY CINEMA EUROPE
+http://210.210.155.35/uq2663/h/h18/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-cjVtJTACA-O_h2vYD-lBxyTPhiQnQLuHdg&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",MYX (GLOBAL)
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuEB8MY_wbg6zQKoj7k7ZBP0VFL6EF_K5jGg&s" group-title="📺BMC BACKUP CHANNEL📺📡",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="📺BMC BACKUP CHANNEL📺📡",NBA TV
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4366.ts
+#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",NEW K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="📺BMC BACKUP CHANNEL📺📡",NHK WORLD JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczgusZys7DtQxC2radgJgmp-Yfj4-T5cmILx7S30Q0-yWdVlT2y2T7Ofw&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",NHK WORLD PREMIUM
+https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_us_music.png" group-title="📺BMC BACKUP CHANNEL📺📡",NICK MUSIC
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/3129.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="📺BMC BACKUP CHANNEL📺📡",OUTDOOR CHANNEL
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGIR4QHQu9Uhdk3Ku1s_21jPa1T6Hxbekpqn5aecLgKeSbfVYGW5m3e1k&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg4XjrKeamQmdS1huRQchQTjnlgvYQ5qvKaA&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",PET CLUB TV
+https://amg01076-lightningintern-petclub-samsungnz-g6424.amagi.tv/playlist/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXozQ3Ab0E9HQGgXv-Y0irycjMGGM4Fw4gXw&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",PLEX NEW MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/qq/qvc-3-us.png" group-title="📺BMC BACKUP CHANNEL📺📡",QVC 3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyaG4TAejrPpBMxLONMAT0k81ZAXPBMhPsTA&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/rr/real_madrid_tv_es_english.png" group-title="📺BMC BACKUP CHANNEL📺📡",REAL MADRID TV
+https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfYKmud53U1oiKZlvozPhgBhrLr6rpNVCoeQ&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScc_5RfKGw16xUSiurcSggQFiRLP_3a3-OdA&s" group-title="📺BMC BACKUP CHANNEL📺📡",ROCK ACTION
+http://210.210.155.35/uq2663/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png" group-title="📺BMC BACKUP CHANNEL📺📡",ROCK ENTERTAINMENT
+http://210.210.155.35/uq2663/h/h16/index.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/scifi_world_512X512_balck.png" group-title="📺BMC BACKUP CHANNEL📺📡",SCI-FI WORLD
+https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sec-network-us.png" group-title="📺BMC BACKUP CHANNEL📺📡",SEC NETWORK
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4333.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCm8wst0HP0HG6yitjxDvACx_k4UqBdtRKNM7sy-cgwCfRFnWQqxA0atb9&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",SMNI NEWS CHANNEL
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-movies-us-uk.png" group-title="📺BMC BACKUP CHANNEL📺📡",SONY MOVIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-pix-in.png" group-title="📺BMC BACKUP CHANNEL📺📡",SONY PIX HD
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2832.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_1.png" group-title="📺BMC BACKUP CHANNEL📺📡",STAR 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+#EXTINF:-1 tvg-logo="https://aphrodite.gmanetwork.com/assets/radio/images/og/super_radyo.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",SUPER RADYO DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.telummedia.com/uploads/cache/profile_image/uploads/corporates/logos/crop/2021/12/61aed27983fbb.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",TAIWAN PLUS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRteKKusrB9l6FXHq7JDFdOo7N_BLpspQfmX-2jrzjGw-gOEN7xJmFxRn8&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",TASTEMADE TRAVEL
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lto.gov.ph/wp-content/uploads/2023/11/TeleRadyo_Serbisyo_logo.svg_.png" group-title="📺BMC BACKUP CHANNEL📺📡",TELERADYO SERBISYO
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ8dEgoKQDipi-0O-ZJX3-9-XxY5znC6uU0pxBy5_IycL3wIPmkD5nPYE&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",TENNIS CHANNEL
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_ygKel9_Yu9i3MMALUdnBV8WFdQ9AcO_YmMDOV314BL3cd30Fm7hTZXM&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",THE PET COLLECTIVE
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l19wTL4.png" group-title="📺BMC BACKUP CHANNEL📺📡",TLC HD
+https://dplus.gammacdn.workers.dev/videos/97.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Travel-Channel-New-Logo.jpg" group-title="📺BMC BACKUP CHANNEL📺📡",TRAVEL CHANNEL
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_in_hd.png" group-title="📺BMC BACKUP CHANNEL📺📡",TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-brics-ru.png" group-title="📺BMC BACKUP CHANNEL📺📡",TV BRICS
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvone-id.png" group-title="📺BMC BACKUP CHANNEL📺📡",TV ONE HD
+http://210.210.155.35/uq2663/h/h40/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpA33iXwCTcvhBYJR8T2yxI54pDt6e5H9cT_WkIOww9wjUhISPaNDrzPA&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",TVN
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="📺BMC BACKUP CHANNEL📺📡",TVN MOVIES
+http://210.210.155.35/uq2663/h/h21/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3ccwAYbYPTN5KldQkZeP7XABNJNKf8XfuGQPt32tgKcs7xBYunzWN5Y&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",TVRI WORLD
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIl0G8qvpUGAJcodOgOWzZ-aMKlh59Uqpwkmr3UlXbNU_ZFEJwl7qAMefJ&s=10" group-title="📺BMC BACKUP CHANNEL📺📡",W-SPORT
+http://210.210.155.35/uq2663/h/h26/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzJpCe4mLFyfQjhCHr2yH8cFZ9FvtWnhY4Q&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",WEATHER SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Xlwd-ifL0ZPnB9rr3CMKbl8EXxJZM2LbIw&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",WELLBEING TV
+https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4rsz7Z6tLuoxgeZgs5GUkE_Ppsush8CLVslq8pJQkComHSdKX" group-title="📺BMC BACKUP CHANNEL📺📡",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7R_ZhVNF6jX26Iz2AG-xccWV2D3uJ-hp1dA&usqp=CAUhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgBluAP_yNAKIpw3AjN1At--xKijbBw8TDQ&usqp=CAU" group-title="📺BMC BACKUP CHANNEL📺📡",VEVO 2KVICE TV
+https://lnc-vice.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ALJAZEERA" tvg-logo="https://smartxtreamtv.uk:443/images/da66dea49c256c9482db9c0dc4c1605a.png" group-title="📺BACK-UP PH V4📡",ALJAZEERA
 http://115.146.176.131:80/TimRizal/TimRizal/4.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX NEWS" tvg-logo="https://smartxtreamtv.uk:443/images/d23fe108561a855805e247896ae4b9a6.png" group-title="📺BACK-UP PH V4📡",FOX NEWS
