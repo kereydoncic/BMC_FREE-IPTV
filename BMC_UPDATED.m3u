@@ -1,4 +1,4 @@
-#EXTM3U 
+C#EXTM3U 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOT FOR SALE!" tvg-logo="https://imgur.com/hjIY4Jb.jpg" group-title="📺BMC TRENDING TODAY📺📡🇵🇭",TRENDING TODAY📺
 https://b.trybrett.shop/daznd-1.m3u8?t=3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOT FOR SALE!" tvg-logo="https://imgur.com/hjIY4Jb.jpg" group-title="📺BMC TRENDING TODAY📺📡🇵🇭",TRENDING TODAY📺
@@ -30075,4 +30075,3 @@ http://hostengine.live/live/Tkarymom1/Reggine1/119066.m3u
 http://hostengine.live/live/Tkarymom1/Reggine1/54244.m3u
 #EXTINF:-1 tvg-id="FOXWBOCDT2.us" tvg-name="US : FOX (WBOC-D2) SALISBURY" tvg-logo="http://icons.tw:8080/images/71d47447c3892845293618df7a501e13.png" group-title="USA FOX LOCALS📽📡📽📡",US : FOX (WBOC-D2) SALISBURY
 http://hostengine.live/live/Tkarymom1/Reggine1/288745.m3u
-
