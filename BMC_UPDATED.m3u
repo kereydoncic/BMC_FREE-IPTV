@@ -1,38 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOT FOR SALE!" tvg-logo="https://imgur.com/a/O6nF1A6.jpg" group-title="📺NBA LIVE GAME🏀📡🇵🇭",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",4K TRAVEL
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",A2Z/ABS CBN
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ABC AUSTRALIA
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",AL JAZEERA
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ALIW CHANNEL 23
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ALL TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",AMERICAN PICKERS
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",AMERICAS FUNIEST VIDEO
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ANC
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ANIMAL PLANET
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ANIMAX
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ANIME ALL DAY
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ANIME HIDIVE
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",ARIRANG
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",AFN
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH CHANNEL📺📡🇵🇭V1",AXN
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="A2z.ph" tvg-logo="https://i.imgur.com/3myn4zH.png" tvg-name="A2Z" group-title="LOCAL",A2Z
 http://ott.udptv.net/stream/iptv/a2z/master.m3u8?u=udpteam@djdoolky76&p=47beb9b696976df8054d42d9f552d489d1f856298f1aa9aca6143fcb4b5deb1a
 #EXTINF:-1 tvg-id="iptv/aliwtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/ALIW-Channel-23.png/" tvg-name="Aliw TV" group-title="LOCAL",Aliw TV
