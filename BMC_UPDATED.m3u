@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOT FOR SALE!" tvg-logo="https://imgur.com/a/O6nF1A6.jpg" group-title="📺NBA LIVE GAME🏀📡🇵🇭",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOT FOR SALE!" tvg-logo="https://imgur.com/a/O6nF1A6.jpg" group-title="📺MOVIE MARATHON📡🇵🇭",TESTING
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NOT FOR SALE!" tvg-logo="https://imgur.com/a/O6nF1A6.jpg" group-title="📺MOVIE MARATHON📡🇵🇭",MOVIE TEST
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/K6TzlDY" group-title="BMC PH🇵🇭 CHANNELV1📺",4K TRAVEL
