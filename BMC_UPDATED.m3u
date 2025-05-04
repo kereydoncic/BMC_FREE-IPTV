@@ -1,7 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/FRa5dFw.jpg" group-title="📺TEST🏀📡🇵🇭",TEST
+#EXTINF:-1 tvg-logo="https://imgur.com/a/FRa5dFw.jpg" group-title="📺NBA PLAYOFFS WEST🏀📡🇵🇭",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/a/khb2jrg.png" group-title="📺NBA LIVE GAME🏀📡🇵🇭",NBA LIVE
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a/khb2jrg.png" group-title="📺NBA PLAYOFFS EAST🏀📡🇵🇭",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/khb2jrg.png" group-title="📺MOVIE MARATHON📡🇵🇭",MOVIE TEST
