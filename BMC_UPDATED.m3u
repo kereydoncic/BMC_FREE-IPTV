@@ -1,12 +1,14 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://short-link.me/11Pyq" group-title="📺BMC NBA PLAYOFFS 2025🏀📡🇵🇭",NBA LIVE
 https://nflarcadia.xyz/bRtT37sn3w/Sx5q6YTgCs/11.m3u8
-#EXTINF:-1 tvg-logo="https://short-link.me/11Pwc" group-title="📺BMC TRENDING TODAY📡🇵🇭",WILL TALKS💯
+#EXTINF:-1 tvg-logo="https://short-link.me/11Pwc" group-title="📺BMC TRENDING VIDEO'S📡🇵🇭",WILL TALKS💯
 https://short-link.me/11PTd
-#EXTINF:-1 tvg-logo="https://short-link.me/11Pwc" group-title="📺BMC TRENDING TODAY📡🇵🇭",WILL TALKS 2💯
+#EXTINF:-1 tvg-logo="https://short-link.me/11Pwc" group-title="📺BMC TRENDING VIDEO'S📡🇵🇭",WILL TALKS 2💯
 https://short-link.me/YRsS
-#EXTINF:-1 tvg-logo="https://short-link.me/11Pwc" group-title="📺BMC TRENDING TODAY📡🇵🇭",PBB ALL-ACCESS👌 💯
+#EXTINF:-1 tvg-logo="https://short-link.me/11Pwc" group-title="📺BMC PBB UPDATE📡🇵🇭",PBB ALL-ACCESS👌 💯
 https://ott.udptv.net/stream/iptv/pbballaccesslivestream/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+
 #EXTINF:-1 tvg-id="tvg-logo="https://short-link.me/11PE7" channel-number="1" group-title="BMC PH CHANNEL📺", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -107,7 +109,7 @@ http://ott.udptv.net/stream/iptv/ibc13/master.m3u8?u=discord.gg/civ3&p=6d5d9a902
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://ott.udptv.net/stream/iptv/ancph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-id=".ph" tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺l",ANC GLOBAL
+#EXTINF:-1 tvg-id=".ph" tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ANC GLOBAL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
