@@ -222,12 +222,12 @@ http://ott.udptv.net/stream/iptv/tvnmoviespinoy/master.m3u8?u=discord.gg/civ3&p=
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",VIVA CINEMA
 http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ABC AUSTRALIA
-https://ott.djdoolky76.net/stream/astro/abcaustralia/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",DISNEY XD
+https://fl5.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ALJAZEERA
-https://ott.djdoolky76.net/stream/astro/aljazeera/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+https://live-hls-web-aje.getaj.net/AJE/06.m3u8
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",AMC
 https://ott.udptv.net/stream/iptv/amc/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
@@ -236,25 +236,24 @@ https://ott.udptv.net/stream/iptv/amc/master.m3u8?u=discord.gg/civ3&p=6d5d9a902c
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BBC EARTH
 https://ott.djdoolky76.net/stream/astro/bbcearth/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BBC NEWS
-https://ott.djdoolky76.net/stream/astro/bbcnews/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",DISNEY JR
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BILYONARYO TV
 http://ott.udptv.net/stream/iptv/billonaryonewschannel/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BLOOMBERG
-https://ott.djdoolky76.net/stream/astro/bloombergtv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CINEMA MANIA
+https://stream.gia.tv/giatv/giatv-ragetv/ragetv/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CGTN
-https://ott.djdoolky76.net/stream/astro/cgtn/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CNA
-https://ott.djdoolky76.net/stream/astro/cna/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CNBC
-
-https://ott.djdoolky76.net/stream/astro/cnbc/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CARTOONS
+https://cdn4.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang-avc1_2000000=7.m3u8
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CNN
 http://ott.udptv.net/stream/iptv/cnn/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
@@ -264,35 +263,211 @@ https://ott.udptv.net/stream/iptv/cnnmax/master.m3u8?u=discord.gg/civ3&p=6d5d9a9
 
 
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",DW TV HD
-https://ott.djdoolky76.net/stream/astro/dw/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BILLIARD TV
+https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/078486b3-06ce-4389-9716-56d7228c8e7e/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",DZRH
 http://ott.udptv.net/stream/iptv/dzrhtv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",FRANCE 24
-https://ott.djdoolky76.net/stream/astro/france24/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ARIRANG
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NHK JAPAN
 http://ott.udptv.net/stream/iptv/nhkworldjapan/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NHK PREMIUM 
-https://ott.djdoolky76.net/stream/astro/nhkworldpremium/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BARBIE AND FRIENDS 
+https://d1xqdnwy1bo05f.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jh1ol665g3amg/21e88aae-c2b6-4d56-8080-bb17ff71475b/5.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",SKYNEWS
-https://ott.djdoolky76.net/stream/astro/skynews/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BABYSHARK TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ANIME X HIDIVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/192.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ANIME ALL DAY
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CRUNCHYROLL
+https://pluto.xyadx.workers.dev/stitch/hls/channel/65652f7fc0fc88000883537a/1577180/playlist.m3u8?terminate=false&sid=846e0385-1778-11f0-97e0-e20a4cc78a4e&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
+
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ANIMAX
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest_video_6_0_28920366.mp4?m=1674584194
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HISTORY TV
+http://ott.udptv.net/stream/iptv/history/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NAT GEO WILD
+https://ott-s3.udptv.net/stream/udptv2/natgeowild/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NATIONAL GEOGRAPHIC 
+https://ott-s3.udptv.net/stream/udptv2/nationalgeographicchannel/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ANIPLUS
+https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",DREAMWORKS TAGALIZED
+http://ott.udptv.net/stream/iptv/dreamworkstagalized/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NICK TOONS
+https://ott-s3.udptv.net/stream/udptv2/nicktoons/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",MPTV
+http://ott.udptv.net/stream/iptv/mptv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NBA TV PH
+http://ott.udptv.net/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NBA TV HD
+https://ott-s4.udptv.net/stream/nbc/nbatvhdtv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",PBA RUSH
+http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CELESTIAL MOVIES PINOY
+http://ott.udptv.net/stream/iptv/celestialmoviespinoy/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",MYX PH
+http://ott.udptv.net/stream/iptv/myxph/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",TAP MOVIES
+http://ott.udptv.net/stream/iptv/tapmovies/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",THRILL
+http://ott.udptv.net/stream/iptv/thrill/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",TMC
+http://ott.udptv.net/stream/iptv/tmc/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HITS MOVIE
+http://ott.udptv.net/stream/iptv/hits/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HBO 1
+https://ott.udptv.net/stream/iptv/hbowest/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HBO 2
+https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HBO 3
+https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HBO HITS
+
+http://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HBO COMEDY
+https://tv.iyadix.workers.dev/17773.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HBO FAMILY
+https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",WARNER TV
+http://ott.udptv.net/stream/iptv/warnertv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",FUNNIEST VIDEO 
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",4K TRAVEL 
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",AMERICAN PICKERS
+https://apollo.production-public.tubi.io/live/ac-american-pickers/384x216.m3u8?ap.debug=0&ap.pt=0&ap.sid=658c107e-0dce-4b7d-b0db-3e2796be8e89&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=e5bc8911472242c26f233114c882a92b
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",FIGHT TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",FILAM TV
+https://cdn.vegasplus.us/vegas/ftv/chunks.m3u8?nimblesessionid=485111
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",HOLLYPOP
+https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NARUTO TV
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",MOVIESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/360p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",LOVE NATURE HD
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/720p-cc/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ONE PIECE TV
+https://pluto.xyadx.workers.dev/stitch/hls/channel/5f7790b3ed0c88000720b241/1577180/playlist.m3u8?terminate=false&sid=846e0385-1778-11f0-97e0-e20a4cc78a4e&deviceDNT=0&deviceModel=web&deviceVersion=1&deviceId=spencer&appVersion=1&deviceType=web&deviceMake=safari
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ZOOMOO TV
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/cb543d1c7f6c678f9dd43a67cef043a4f9af53fc087a8d6933fb4b926bc10f41f9e5af86a540ff1902cb5d81385e7d50586cdb6bbc1c1cb9b67bb82371254b2085e0cd05a6fb606bd2c571282baa6a6f11be5240b7700159d0fd555dd66afb2a5353a02246621fa1f149f12f0990907dde2c72d4b4cd076c3f1906c00342e1be5eb38cb91f1a8539beb01f4d8b2f5be08246c0ca1dba81c426c111df2aa404fec3a6da91499d839264b754b4764d0d7428cad178909b10e4d8986874cd202e165357bea6c1b31d39df161a0ffdfec8ec61ac21fee350e9b8e5bc7afa7fac72e15ba200abe85eb0a4b5da513356cea67a52576b613de8815112ae6ffad88997132edb9e801b369e84f922ae68ddddb237f84897c0e81da5fe023c2bc9900ab69cbc8ae3b1b787fd4f33a6d997274b426f054dd313f2da25f720d36db0955300524956a2935184d78c0570407db6cd70ec425b9bce828fdb4113e54e3468ca52e9162b3e9d7d2c5df53df59f0b698b0d03917a68a80f7bd314bcf007dd93f6c94a7bb9d7cc47bf48eab601ddbf429f682e4a0bbcfc630b0b1c3df3e674023d7c8c14b78684b1395e50b8ae83af9102782a36155b008ea2d4719d8fd22052439204683322627afc63f767db1246092abb7c82f973148f67733587475e85f8fc36ae4cb47f5b48dd94520d146b3c0f1a7f4e/2/848x480_1249600/index.m3u8
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",A2Z
+http://ott.udptv.net/stream/iptv/a2z/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC USA TV📺",ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CW AMERICANS
+http://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NBC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",PBS
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BBC
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",CNBC
+http://fl3.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",C-SPAN
+http://fl3.moveonjoy.com/C-SPAN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ESPN
+http://fl3.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",RED ZONE
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NHL
+http://fl3.moveonjoy.com/NHL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",COMEDY CENTRAL 
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",BOUNCE TV
+http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ANIMAL PLANET
-https://ott.djdoolky76.net/stream/astro/animalplanet/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",DISCOVERY ASIA
-https://ott.djdoolky76.net/stream/astro/discoveryasia/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",TELEMUNDO
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",ID TV
+http://fl3.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",OWN TV
+http://fl3.moveonjoy.com/OWN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",LIFETIME US
+http://fl3.moveonjoy.com/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NBA TRU+ TV
+http://fl3.moveonjoy.com/TRU_TV/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/aw19DCUqf57NJ4QrlwYmkOj2K6Q.jpg" group-title="SERIES COLLECTION MOVIES",Sweet-Home-Season-3-Episode-8
