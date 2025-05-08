@@ -25,7 +25,8 @@ https://vs014c30.fstream365.xyz/m3u8/kJcU9ghf5DeyjHC0yLcj6hOLv2nBBrIRrXHWAc+XfBY
 #EXTINF:-1 tvg-logo="https://short-link.me/YUdR" group-title="📺BMC LATEST MOVIES 2025📡🇵🇭",HAVOC
 https://f10.megacdn.co:2228/v3-hls-playback/995f4a25ea16ad261e61cb53c4454b7bb7f853a4019a938a67ee3e474dfedbd8f51afbf829fad01f9b9551b4c3e63cbad758915a1e6dcea6a78a3659326f18234b31c73646fee1c4d1d4aa5e7a635e13e6d57a8e02d8746fd1c712d20772d35fe1e624c9765462e3f5830cbed6aad32b2f66eae8fa66c88a63f9c64de160509bf7b364316f10d84be34017591c92b4dcbc5559002b3d9f36e67e691b507eb24c14afbcd6eb94244bbb4891e4cc6a73e00ee40182d20110a22880d2e379457c4c/1080/index.m3u8
 
-
+#EXTINF:-1 tvg-id="tvg-logo="https://short-link.me/11PE7" channel-number="1" group-title="BMC PH CHANNEL📺",ZEESINE
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-logo="https://short-link.me/11PE7" channel-number="1" group-title="BMC PH CHANNEL📺", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
