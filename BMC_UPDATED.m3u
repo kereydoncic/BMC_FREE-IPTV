@@ -487,8 +487,6 @@ http://fl3.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",NBA TRU+ TV
 http://fl3.moveonjoy.com/TRU_TV/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://phcorner.org/data/avatars/l/2356/2356388.jpg?1736257071" group-title="BMC PH CHANNEL V2📺🇵🇭",GMA 
 https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f 
 #EXTINF:-1 tvg-logo="https://phcorner.org/data/avatars/l/2356/2356388.jpg?1736257071" group-title="BMC PH CHANNEL V2📺🇵🇭",GTV 
