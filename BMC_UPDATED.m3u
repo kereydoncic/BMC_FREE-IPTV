@@ -257,9 +257,6 @@ http://ott.udptv.net/stream/iptv/teleradyoserbisyosd/master.m3u8?u=discord.gg/ci
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",TFC ASIA
 http://ott.udptv.net/stream/iptv/tfcasia/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",TFC GLOBAL
-
-
 #EXTINF:-1 tvg-logo="https://short-link.me/11PE7" group-title="BMC PH CHANNEL📺",TRUE FM TV
 http://ott.udptv.net/stream/iptv/truefmtv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
