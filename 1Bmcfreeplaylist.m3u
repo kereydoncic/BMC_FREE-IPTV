@@ -1,4 +1,5 @@
-#EXTM3U The playlist was created in "IPTV PLAYLIST CHECKER" https://play.google.com/store/apps/details?id=runapp.iptv 
+
+#EXTM3U  
 #EXTINF:-1,ANC
 http://15.235.210.19:80/play/H6hgcMyjywEr03JCuP3RUiBInaCZMHUmyGzpWRLebfw
 #EXTINF:-1,CCTN 47
